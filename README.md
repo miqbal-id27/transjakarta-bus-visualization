@@ -2,15 +2,7 @@
 
 Interactive D3.js portfolio project that explores **Transjakarta bus stop interconnectivity, ridership patterns, and demographic coverage** across Jakarta.
 
-## Live Demo
-
-After enabling GitHub Pages, the final web project will be available at:
-
-```text
-https://miqbal-id27.github.io/transjakarta-public-bus-portfolio/
-```
-
-Replace `transjakarta-public-bus-portfolio` with your actual repository name if you use a different repo.
+<img width="1502" height="893" alt="image" src="https://github.com/user-attachments/assets/3656dc5d-5202-48d3-bc29-1d586024b8b1" />
 
 ## Executive Summary
 
@@ -52,7 +44,7 @@ Time coverage in the processed demo data: **2023-04-01 to 2023-04-30**.
 ## Repository Structure
 
 ```text
-transjakarta-public-bus-portfolio/
+transjakarta-bus-visualization/
 ├── README.md
 ├── GITHUB_SETUP.md
 ├── .gitignore
@@ -122,7 +114,7 @@ The final demo was implemented using:
 Local access:
 
 ```bash
-cd transjakarta-public-bus-portfolio/docs
+cd transjakarta-bus-visualization/docs
 python -m http.server 8000
 ```
 
@@ -135,20 +127,8 @@ http://localhost:8000
 Online access after GitHub Pages setup:
 
 ```text
-https://miqbal-id27.github.io/transjakarta-public-bus-portfolio/
+https://miqbal-id27.github.io/transjakarta-bus-visualization/
 ```
-
-## What Was Excluded
-
-To keep the repository clean, this package excludes:
-
-- raw large CSV files,
-- Excel working files,
-- duplicated JSON files,
-- assignment brief files,
-- the final implementation report PDF.
-
-The repository keeps only files needed to understand, reproduce, and present the portfolio project.
 
 ## Tech Stack
 
