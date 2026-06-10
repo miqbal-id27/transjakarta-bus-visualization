@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python local server / cache
+__pycache__/
+*.pyc
+
+# Large raw or working data not needed for GitHub Pages
+/data/raw/
+/raw/
+dfTransjakarta*.csv
+trans_df*.csv
+trips2.csv
+final_table_with_info.xlsx
+*.xls
+*.xlsx
+
+# Temporary files
+*.tmp
+*.log

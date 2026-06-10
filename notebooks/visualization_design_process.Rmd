@@ -1,0 +1,235 @@
+---
+title: "DVP-2"
+author: "Muhammad Iqbal"
+date: "2025-06-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r import}
+library(tidyverse)
+library(lubridate)
+library(jsonlite)
+
+# Transaction Data
+trips2 <- read_csv("trips2.csv", 
+  col_types = cols(
+    transID            = col_character(),
+    payCardID          = col_character(),
+    payCardBank        = col_character(),
+    payCardName        = col_character(),
+    payCardSex         = col_character(),
+    payCardBirthDate   = col_double(),
+    corridorID         = col_double(),
+    corridorName       = col_character(),
+    direction          = col_double(),
+    tapInStops         = col_character(),
+    tapInStopsName     = col_character(),
+    tapInStopsLat      = col_double(),
+    tapInStopsLon      = col_double(),
+    stopStartSeq       = col_double(),
+    tapInTime          = col_datetime(),      # assumes ISO datetime
+    tapOutStops        = col_character(),
+    tapOutStopsName    = col_character(),
+    tapOutStopsLat     = col_double(),
+    tapOutStopsLon     = col_double(),
+    stopEndSeq         = col_double(),
+    tapOutTime         = col_datetime(),
+    payAmount          = col_double(),
+    tapIn_built_year   = col_character(),     # may be NA
+    tapIn_notes        = col_character(),     # e.g. “RAMP…”
+    tapOut_built_year  = col_character(),
+    tapOut_notes       = col_character()
+  )
+)
+
+colnames(trips2)
+```
+
+```{r }
+head(trips2)
+```
+
+```{r}
+halts <- bind_rows(
+  trips2 %>%
+    select(
+      id            = tapInStops,
+      name          = tapInStopsName,
+      lat           = tapInStopsLat,
+      lon           = tapInStopsLon,
+      corridorID,
+      corridorName,
+      built_year    = tapIn_built_year,
+      remarks       = tapIn_notes
+    ) %>%
+    mutate(
+      corridor = paste0(corridorID, " : ", corridorName)
+    ) %>%
+    select(-corridorID, -corridorName),
+
+  trips2 %>%
+    select(
+      id            = tapOutStops,
+      name          = tapOutStopsName,
+      lat           = tapOutStopsLat,
+      lon           = tapOutStopsLon,
+      corridorID,
+      corridorName,
+      built_year    = tapOut_built_year,
+      remarks       = tapOut_notes
+    ) %>%
+    mutate(
+      corridor = paste0(corridorID, " : ", corridorName)
+    ) %>%
+    select(-corridorID, -corridorName)
+) %>%
+  distinct(id, .keep_all = TRUE) %>%
+  mutate(
+    built_year = parse_number(built_year) %>% as.integer(),
+    remarks    = replace_na(remarks, "")
+  )
+
+halts
+```
+
+
+
+
+
+```{r}
+edges <- trips2 %>%
+  count(
+    from   = tapInStopsName,
+    to     = tapOutStopsName,
+    name   = "weight"
+  ) %>%
+  filter(from != to) %>%
+  mutate(
+    from = as.character(from),
+    to   = as.character(to)
+  )
+
+network <- list(
+  nodes = halts,
+  edges = edges
+)
+
+edges
+```
+```{r}
+network
+```
+```{r}
+# Write JSON for D3
+write_json(network, "bus_stop_network.json", pretty = TRUE, auto_unbox = TRUE)
+```
+
+
+```{r}
+ts_data <- trips2 %>%
+  transmute(
+    id       = tapInStopsName,
+    date     = as_date(tapInTime),
+    weekday  = if_else(wday(date) %in% 2:6, "Weekday", "Weekend")
+  ) %>%
+  count(id, date, weekday, name = "count") %>%
+  arrange(id, date)
+
+write_json(ts_data, "bus_stop_timeseries.json", pretty = TRUE, auto_unbox = TRUE)
+
+ts_data
+```
+```{r}
+pyr_data <- trips2 %>%
+  transmute(
+    id      = tapInStopsName,
+    sex     = payCardSex,
+    birth   = payCardBirthDate,    
+    date    = as_date(tapInTime)
+  ) %>%
+  filter(!is.na(birth), birth > 1900) %>%       # drop invalids
+  mutate(
+    age     = year(date) - birth,
+    # define 10-year bins: “0–9”, “10–19”, … “80+”
+    age_grp = cut(
+      age,
+      breaks = c(seq(0,80,by=10), Inf),
+      labels = c(paste0(seq(0,70,by=10), "–", seq(9,79,by=10)), "80+"),
+      right = FALSE
+    )
+  ) %>%
+  count(id, age_grp, sex, name="pop") %>%
+  arrange(id, age_grp, sex)
+
+write_json(pyr_data, "bus_stop_population.json", pretty = TRUE, auto_unbox = TRUE)
+
+pyr_data
+```
+```{r}
+hourly_summary <- trips2 %>%
+  mutate(
+    date     = as_date(tapInTime),
+    hour     = hour(tapInTime),
+    dow      = wday(date, week_start = 1),              # 1 = Mon … 7 = Sun
+    day_type = if_else(dow <= 5, "Weekday", "Weekend")
+  ) %>%
+  # count trips per stop × hour × day_type
+  count(
+    id       = tapInStops,
+    hour,
+    day_type,
+    name     = "trips"
+  ) %>%
+  # if you want avg/IQR across days, then:
+  group_by(id, hour, day_type) %>%
+  summarise(
+    avg_trips = mean(trips),
+    lower     = quantile(trips, .25),
+    upper     = quantile(trips, .75),
+    .groups   = "drop"
+  )
+
+write_json(
+  hourly_summary,
+  "bus_stop_hourly_summary.json",
+  pretty     = TRUE,
+  auto_unbox = TRUE
+)
+
+hourly_summary
+```
+
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

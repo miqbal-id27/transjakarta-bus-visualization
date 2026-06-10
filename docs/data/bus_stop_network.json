@@ -1,0 +1,8570 @@
+{
+  "nodes": [
+    {
+      "id": "P00167",
+      "name": "Pemuda Rawamangun",
+      "lat": -6.1935,
+      "lon": 106.8916,
+      "remarks": "",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00062",
+      "name": "Gambir 1",
+      "lat": -6.1746,
+      "lon": 106.8304,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00198",
+      "name": "Puri Beta 2",
+      "lat": -6.2305,
+      "lon": 106.7237,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00089",
+      "name": "Jembatan Besi",
+      "lat": -6.152,
+      "lon": 106.7949,
+      "built_year": 2008,
+      "remarks": "JPO Eksisting (Tangga Semua)",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00082",
+      "name": "Istiqlal",
+      "lat": -6.1723,
+      "lon": 106.8309,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00018",
+      "name": "BNN Arah Barat",
+      "lat": -6.2465,
+      "lon": 106.8732,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00209",
+      "name": "RS Tarakan",
+      "lat": -6.1711,
+      "lon": 106.8101,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00188",
+      "name": "Pramuka BPKP",
+      "lat": -6.1922,
+      "lon": 106.874,
+      "remarks": "",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00183",
+      "name": "Polda Metro Jaya",
+      "lat": -6.2211,
+      "lon": 106.8103,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00092",
+      "name": "Jembatan Merah",
+      "lat": -6.1467,
+      "lon": 106.8343,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00294",
+      "name": "Sawah Besar Arah Selatan",
+      "lat": -6.1574,
+      "lon": 106.8187,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00034",
+      "name": "CBD Ciledug",
+      "lat": -6.2236,
+      "lon": 106.709,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00004",
+      "name": "ASEAN",
+      "lat": -6.2399,
+      "lon": 106.799,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00168",
+      "name": "Penas Kalimalang",
+      "lat": -6.2391,
+      "lon": 106.878,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Ramp)",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00274",
+      "name": "Yos Sudarso Kodamar",
+      "lat": -6.162,
+      "lon": 106.8817,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp Semua)",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00146",
+      "name": "Pangeran Jayakarta",
+      "lat": -6.1376,
+      "lon": 106.8179,
+      "built_year": 2012,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP SEMUA )",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00153",
+      "name": "Pasar Induk Kramat Jati",
+      "lat": -6.2942,
+      "lon": 106.872,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00271",
+      "name": "Walikota Jakarta Utara Arah Selatan",
+      "lat": -6.1188,
+      "lon": 106.8935,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00189",
+      "name": "Pramuka LIA",
+      "lat": -6.1922,
+      "lon": 106.8686,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "B05849P",
+      "name": "Utan Panjang",
+      "lat": -6.1695,
+      "lon": 106.8521,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00260",
+      "name": "Tomang Mandala",
+      "lat": -6.1769,
+      "lon": 106.8004,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Tangga-Floating-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00267",
+      "name": "Utan Kayu Rawamangun",
+      "lat": -6.1975,
+      "lon": 106.874,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Ramp)",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00076",
+      "name": "Gunung Sahari Mangga Dua",
+      "lat": -6.1368,
+      "lon": 106.8324,
+      "built_year": 2006,
+      "remarks": "JPO BAJA ( Bangun Thn 2007 ) RAMP SEMUA",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00026",
+      "name": "Bundaran Senayan",
+      "lat": -6.2279,
+      "lon": 106.8009,
+      "built_year": 2003,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00001",
+      "name": "Adam Malik",
+      "lat": -6.2365,
+      "lon": 106.7479,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00268",
+      "name": "Velbak",
+      "lat": -6.2394,
+      "lon": 106.7855,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00134",
+      "name": "Matraman 1",
+      "lat": -6.2,
+      "lon": 106.8544,
+      "remarks": "",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00044",
+      "name": "CSW 1",
+      "lat": -6.2399,
+      "lon": 106.7984,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00064",
+      "name": "Garuda Taman Mini",
+      "lat": -6.2902,
+      "lon": 106.8812,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00081",
+      "name": "Indosiar",
+      "lat": -6.1634,
+      "lon": 106.7751,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP, TANGGA )",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00184",
+      "name": "Pondok Indah 1",
+      "lat": -6.2868,
+      "lon": 106.78,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00151",
+      "name": "Pasar Enjo",
+      "lat": -6.2149,
+      "lon": 106.8782,
+      "built_year": 2011,
+      "remarks": "JPO Eksisting (Tangga-Ramp-Tangga)",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00169",
+      "name": "Penggilingan",
+      "lat": -6.2141,
+      "lon": 106.9396,
+      "built_year": 2011,
+      "remarks": "JPO Baru Baja (Ramp Semua)",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00214",
+      "name": "Salemba UI",
+      "lat": -6.1934,
+      "lon": 106.8489,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00098",
+      "name": "Kali Besar Barat",
+      "lat": -6.1354,
+      "lon": 106.8114,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00293",
+      "name": "Sawah Besar Arah Utara",
+      "lat": -6.1574,
+      "lon": 106.8185,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00176",
+      "name": "Petojo",
+      "lat": -6.17,
+      "lon": 106.817,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "B00292P",
+      "name": "Danau Agung 1",
+      "lat": -6.1473,
+      "lon": 106.8582,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00015",
+      "name": "Bidara Cina",
+      "lat": -6.2297,
+      "lon": 106.8672,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00058",
+      "name": "Flyover Klender",
+      "lat": -6.2136,
+      "lon": 106.9031,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00171",
+      "name": "Permai Koja Arah Utara",
+      "lat": -6.1141,
+      "lon": 106.8931,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00202",
+      "name": "Rawa Selatan",
+      "lat": -6.1739,
+      "lon": 106.8581,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00046",
+      "name": "Danau Agung",
+      "lat": -6.1469,
+      "lon": 106.8581,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00142",
+      "name": "Pal Putih",
+      "lat": -6.1846,
+      "lon": 106.844,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00121",
+      "name": "Kuningan Timur",
+      "lat": -6.2347,
+      "lon": 106.829,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00273",
+      "name": "Warung Jati",
+      "lat": -6.2624,
+      "lon": 106.8298,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00097",
+      "name": "Juanda",
+      "lat": -6.168,
+      "lon": 106.8309,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00109",
+      "name": "Matraman Baru",
+      "lat": -6.2129,
+      "lon": 106.8611,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00043",
+      "name": "Cipulir",
+      "lat": -6.2378,
+      "lon": 106.7654,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00141",
+      "name": "Pakin",
+      "lat": -6.128,
+      "lon": 106.8047,
+      "built_year": 2012,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP SEMUA )",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00145",
+      "name": "Pancoran Tugu Arah Barat",
+      "lat": -6.2433,
+      "lon": 106.8439,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B04788P",
+      "name": "Simpang Danau Sunter Barat Utara",
+      "lat": -6.1408,
+      "lon": 106.857,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00156",
+      "name": "Pasar Kramat Jati",
+      "lat": -6.2688,
+      "lon": 106.8666,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00021",
+      "name": "Budi Utomo",
+      "lat": -6.1661,
+      "lon": 106.8391,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00016",
+      "name": "BKN",
+      "lat": -6.2578,
+      "lon": 106.87,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA BETON SEMUA )",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00113",
+      "name": "Kelapa Dua Sasak",
+      "lat": -6.2056,
+      "lon": 106.7695,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp-Ramp-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00220",
+      "name": "Senen Sentral",
+      "lat": -6.1783,
+      "lon": 106.842,
+      "remarks": "",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00248",
+      "name": "Tanjung Priok",
+      "lat": -6.1096,
+      "lon": 106.8821,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00133",
+      "name": "Masjid Agung",
+      "lat": -6.2365,
+      "lon": 106.7985,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00253",
+      "name": "Tegalan",
+      "lat": -6.2031,
+      "lon": 106.8572,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00002",
+      "name": "Ahmad Yani Bea Cukai",
+      "lat": -6.2055,
+      "lon": 106.8738,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00136",
+      "name": "Mayestik",
+      "lat": -6.2419,
+      "lon": 106.7908,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00221",
+      "name": "Seskoal",
+      "lat": -6.2381,
+      "lon": 106.7712,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00024",
+      "name": "Buncit Indah",
+      "lat": -6.2743,
+      "lon": 106.8303,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00140",
+      "name": "Pademangan",
+      "lat": -6.1337,
+      "lon": 106.8316,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP, TANGGA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00204",
+      "name": "RS Harapan Bunda",
+      "lat": -6.302,
+      "lon": 106.868,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00266",
+      "name": "Utan Kayu",
+      "lat": -6.1927,
+      "lon": 106.8646,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00119",
+      "name": "Kuningan Barat",
+      "lat": -6.2373,
+      "lon": 106.8279,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00154",
+      "name": "Pasar Jatinegara",
+      "lat": -6.2157,
+      "lon": 106.8663,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00263",
+      "name": "TU Gas",
+      "lat": -6.1924,
+      "lon": 106.9049,
+      "remarks": "",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00096",
+      "name": "JORR",
+      "lat": -6.2361,
+      "lon": 106.7549,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00033",
+      "name": "Cawang UKI",
+      "lat": -6.2503,
+      "lon": 106.8736,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA BETON SEMUA )",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00055",
+      "name": "Enggano",
+      "lat": -6.1101,
+      "lon": 106.8924,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00164",
+      "name": "Pejaten",
+      "lat": -6.2784,
+      "lon": 106.8297,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00272",
+      "name": "Walikota Jakarta Utara Arah Utara",
+      "lat": -6.1188,
+      "lon": 106.8931,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00159",
+      "name": "Pasar Rumput",
+      "lat": -6.2071,
+      "lon": 106.8411,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( RAMP SEMUA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00070",
+      "name": "Gelanggang Remaja",
+      "lat": -6.2354,
+      "lon": 106.8679,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00038",
+      "name": "Cempaka Timur",
+      "lat": -6.1666,
+      "lon": 106.8759,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00259",
+      "name": "Tirtayasa",
+      "lat": -6.2392,
+      "lon": 106.8078,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00040",
+      "name": "Cikoko Stasiun Cawang Arah Timur",
+      "lat": -6.243,
+      "lon": 106.8581,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00005",
+      "name": "ASMI",
+      "lat": -6.1718,
+      "lon": 106.8888,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00247",
+      "name": "Tanah Merdeka Arah Timur",
+      "lat": -6.3079,
+      "lon": 106.8739,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00155",
+      "name": "Pasar Kebayoran Lama",
+      "lat": -6.2384,
+      "lon": 106.7832,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00265",
+      "name": "UNJ",
+      "lat": -6.1929,
+      "lon": 106.8803,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00261",
+      "name": "Tosari",
+      "lat": -6.1969,
+      "lon": 106.8231,
+      "built_year": 2003,
+      "remarks": "JPO BETON / EKSISTING ( RAMP SEMUA )",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00017",
+      "name": "Blok M",
+      "lat": -6.2433,
+      "lon": 106.8017,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00162",
+      "name": "Pedati Prumpung",
+      "lat": -6.2202,
+      "lon": 106.8744,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp-Ramp-Tangga)",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00232",
+      "name": "Stasiun Jatinegara Arah Utara",
+      "lat": -6.2154,
+      "lon": 106.8742,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00101",
+      "name": "Kampung Rambutan",
+      "lat": -6.3099,
+      "lon": 106.8822,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00229",
+      "name": "SMP 140",
+      "lat": -6.1398,
+      "lon": 106.8592,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00238",
+      "name": "Sunan Giri",
+      "lat": -6.1933,
+      "lon": 106.8837,
+      "built_year": 2006,
+      "remarks": "PELICAN",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "B06064P",
+      "name": "Jln. Dadap",
+      "lat": -6.1291,
+      "lon": 106.855,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00223",
+      "name": "Simprug",
+      "lat": -6.2339,
+      "lon": 106.7865,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00131",
+      "name": "Mangga Dua",
+      "lat": -6.1361,
+      "lon": 106.826,
+      "built_year": 2012,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00106",
+      "name": "Kebayoran Lama",
+      "lat": -6.2383,
+      "lon": 106.7775,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00003",
+      "name": "Ancol",
+      "lat": -6.1276,
+      "lon": 106.8304,
+      "built_year": 2006,
+      "remarks": "PELICAN",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00071",
+      "name": "Gelora Bung Karno",
+      "lat": -6.2242,
+      "lon": 106.8058,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00108",
+      "name": "Kebon Jeruk",
+      "lat": -6.1943,
+      "lon": 106.7689,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00173",
+      "name": "Permata Hijau RS Medika",
+      "lat": -6.2184,
+      "lon": 106.7776,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00234",
+      "name": "Stasiun Klender",
+      "lat": -6.2135,
+      "lon": 106.8987,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00233",
+      "name": "St. Jatinegara 2",
+      "lat": -6.2156,
+      "lon": 106.868,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00025",
+      "name": "Bundaran HI",
+      "lat": -6.193,
+      "lon": 106.823,
+      "built_year": 2003,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "B06066P",
+      "name": "Polres Metro Jakpus",
+      "lat": -6.1595,
+      "lon": 106.8514,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00061",
+      "name": "Galur",
+      "lat": -6.1744,
+      "lon": 106.8548,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( TANGGA SEMUA )",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00224",
+      "name": "Slamet Riyadi",
+      "lat": -6.2085,
+      "lon": 106.8593,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "B04647P",
+      "name": "Sekolah Penabur Gunung Sahari",
+      "lat": -6.1701,
+      "lon": 106.8402,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00047",
+      "name": "Departemen Kesehatan",
+      "lat": -6.2288,
+      "lon": 106.8332,
+      "remarks": "",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00228",
+      "name": "SMK 57",
+      "lat": -6.291,
+      "lon": 106.8237,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( TANGGA SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00128",
+      "name": "Lebak Bulus",
+      "lat": -6.2894,
+      "lon": 106.7742,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00245",
+      "name": "Tanah Kusir Kodim",
+      "lat": -6.257,
+      "lon": 106.7817,
+      "built_year": 2008,
+      "remarks": "JPO Eksisting (Tangga-Ramp-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00077",
+      "name": "Halimun",
+      "lat": -6.2051,
+      "lon": 106.8334,
+      "built_year": 2006,
+      "remarks": "PELICAN",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00135",
+      "name": "Matraman 2",
+      "lat": -6.1989,
+      "lon": 106.8545,
+      "built_year": 2006,
+      "remarks": "SKY WOLK / PELICAN",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00212",
+      "name": "S Parman Podomoro City Arah Timur",
+      "lat": -6.1758,
+      "lon": 106.7931,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B05550P",
+      "name": "Sunter Icon",
+      "lat": -6.1354,
+      "lon": 106.8559,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00297",
+      "name": "BNN LRT",
+      "lat": -6.2459,
+      "lon": 106.8711,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00177",
+      "name": "PGC 1",
+      "lat": -6.2625,
+      "lon": 106.8663,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00137",
+      "name": "Monas",
+      "lat": -6.1762,
+      "lon": 106.8229,
+      "built_year": 2003,
+      "remarks": "PELICAN",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00213",
+      "name": "Salemba Carolus",
+      "lat": -6.1968,
+      "lon": 106.851,
+      "remarks": "",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00118",
+      "name": "Kramat Sentiong",
+      "lat": -6.188,
+      "lon": 106.846,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00138",
+      "name": "Museum Fatahillah",
+      "lat": -6.1339,
+      "lon": 106.8121,
+      "built_year": 2012,
+      "remarks": "PELICAN",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "B06065P",
+      "name": "Puskesmas Sunter Agung I",
+      "lat": -6.1325,
+      "lon": 106.8556,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00080",
+      "name": "Imigrasi Jakarta Timur",
+      "lat": -6.2146,
+      "lon": 106.8823,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00285",
+      "name": "Sunter Kelapa Gading Arah Selatan",
+      "lat": -6.1429,
+      "lon": 106.8909,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00197",
+      "name": "Puri Beta 1",
+      "lat": -6.2306,
+      "lon": 106.726,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00053",
+      "name": "Duren Tiga",
+      "lat": -6.2524,
+      "lon": 106.827,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00161",
+      "name": "Pecenongan",
+      "lat": -6.1677,
+      "lon": 106.8282,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00158",
+      "name": "Pasar Pulo Gadung",
+      "lat": -6.1874,
+      "lon": 106.9059,
+      "remarks": "",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00225",
+      "name": "Slipi Kemanggisan Arah Selatan",
+      "lat": -6.1898,
+      "lon": 106.7973,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00124",
+      "name": "Latuharhary",
+      "lat": -6.2028,
+      "lon": 106.8277,
+      "remarks": "",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00060",
+      "name": "Flyover Raya Bogor",
+      "lat": -6.3065,
+      "lon": 106.8657,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00035",
+      "name": "Cempaka Mas",
+      "lat": -6.1659,
+      "lon": 106.8792,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "B00317P",
+      "name": "Dittopad",
+      "lat": -6.1748,
+      "lon": 106.8482,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "B05725P",
+      "name": "Term. Senen",
+      "lat": -6.1736,
+      "lon": 106.8421,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00148",
+      "name": "Pasar Baru Timur",
+      "lat": -6.1623,
+      "lon": 106.8381,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "5 : Matraman Baru - Ancol"
+    },
+    {
+      "id": "P00041",
+      "name": "Cipinang",
+      "lat": -6.2137,
+      "lon": 106.8899,
+      "built_year": 2011,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Tangga)",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00014",
+      "name": "Bermis",
+      "lat": -6.1782,
+      "lon": 106.8986,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP SEMUA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00152",
+      "name": "Pasar Genjing",
+      "lat": -6.1944,
+      "lon": 106.8609,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00057",
+      "name": "Flyover Jatinegara",
+      "lat": -6.2152,
+      "lon": 106.8736,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00139",
+      "name": "Olimo",
+      "lat": -6.1493,
+      "lon": 106.8167,
+      "built_year": 2003,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00208",
+      "name": "RS Sumber Waras",
+      "lat": -6.1663,
+      "lon": 106.7968,
+      "remarks": "",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00291",
+      "name": "Harmoni Arah Utara",
+      "lat": -6.1627,
+      "lon": 106.8197,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00129",
+      "name": "Mampang Prapatan",
+      "lat": -6.2427,
+      "lon": 106.8257,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00270",
+      "name": "Walikota Jakarta Timur",
+      "lat": -6.2125,
+      "lon": 106.9454,
+      "built_year": 2011,
+      "remarks": "JPO Baru Baja (Ramp Semua)",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "B06067P",
+      "name": "Sunter Muara 1",
+      "lat": -6.1443,
+      "lon": 106.8574,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00194",
+      "name": "Pulo Gebang",
+      "lat": -6.2133,
+      "lon": 106.9533,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00206",
+      "name": "RS Harapan Kita Arah Utara",
+      "lat": -6.1845,
+      "lon": 106.7967,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00144",
+      "name": "Pancoran Barat Arah Timur",
+      "lat": -6.2416,
+      "lon": 106.8381,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00051",
+      "name": "Dukuh Atas",
+      "lat": -6.2057,
+      "lon": 106.8222,
+      "built_year": 2003,
+      "remarks": "JPO BETON / EKSISTING ( RAMP SEMUA )",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "B01149P",
+      "name": "Jln. H. Ung",
+      "lat": -6.1641,
+      "lon": 106.8531,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00104",
+      "name": "Karet Sudirman",
+      "lat": -6.2125,
+      "lon": 106.82,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00087",
+      "name": "Jelambar",
+      "lat": -6.1665,
+      "lon": 106.7865,
+      "built_year": 2004,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA BETON SEMUA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00048",
+      "name": "Departemen Pertanian",
+      "lat": -6.2946,
+      "lon": 106.8221,
+      "built_year": 2006,
+      "remarks": "PELICAN",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00242",
+      "name": "Swadarma",
+      "lat": -6.2375,
+      "lon": 106.7606,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "B03201P",
+      "name": "RSPAD 3",
+      "lat": -6.1755,
+      "lon": 106.8392,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00166",
+      "name": "Pemuda Pramuka",
+      "lat": -6.1928,
+      "lon": 106.875,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00256",
+      "name": "MH Thamrin",
+      "lat": -6.1881,
+      "lon": 106.823,
+      "remarks": "",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00150",
+      "name": "Pasar Cempaka Putih",
+      "lat": -6.1723,
+      "lon": 106.8625,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00031",
+      "name": "Cawang Otista",
+      "lat": -6.2436,
+      "lon": 106.8688,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00216",
+      "name": "Semanggi",
+      "lat": -6.2211,
+      "lon": 106.8135,
+      "built_year": 2008,
+      "remarks": "JPO Eksisting (Tangga-Floating Ramp-Tangga)",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00127",
+      "name": "Layur",
+      "lat": -6.1935,
+      "lon": 106.8991,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP, TANGGA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00073",
+      "name": "GOR Sumantri",
+      "lat": -6.2216,
+      "lon": 106.8322,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( RAMP SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00240",
+      "name": "Sunter Karya",
+      "lat": -6.1376,
+      "lon": 106.8708,
+      "built_year": 2012,
+      "remarks": "JPO BAJA / EKSISTING ( TANGGA SEMUA )",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "B00770P",
+      "name": "Honda Letjen Suprapto",
+      "lat": -6.1749,
+      "lon": 106.8497,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00059",
+      "name": "Flyover Radin Inten",
+      "lat": -6.216,
+      "lon": 106.9244,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00085",
+      "name": "Jati Padang",
+      "lat": -6.2854,
+      "lon": 106.8263,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( TANGGA SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00054",
+      "name": "Duri Kepa",
+      "lat": -6.1853,
+      "lon": 106.7684,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp-Ramp-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00170",
+      "name": "Penjaringan",
+      "lat": -6.1263,
+      "lon": 106.792,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00110",
+      "name": "Kedoya Assiddiqiyah",
+      "lat": -6.1745,
+      "lon": 106.7659,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00174",
+      "name": "Perumnas Klender",
+      "lat": -6.2167,
+      "lon": 106.9305,
+      "remarks": "",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "B01961P",
+      "name": "Kemayoran Landas Pacu Timur 2",
+      "lat": -6.152,
+      "lon": 106.8538,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00063",
+      "name": "Gambir 2",
+      "lat": -6.1789,
+      "lon": 106.8311,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00074",
+      "name": "Grogol 1",
+      "lat": -6.1668,
+      "lon": 106.7897,
+      "built_year": 2004,
+      "remarks": "JPO BETON / EKSISTING ( Halte Bangun Thn 2007 )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00278",
+      "name": "BNN Arah Timur",
+      "lat": -6.2463,
+      "lon": 106.8731,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00006",
+      "name": "Atrium",
+      "lat": -6.1763,
+      "lon": 106.8402,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "B04789P",
+      "name": "Simpang Danau Sunter Utara Barat",
+      "lat": -6.1399,
+      "lon": 106.8566,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00032",
+      "name": "Cawang Soetoyo",
+      "lat": -6.2448,
+      "lon": 106.876,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00243",
+      "name": "Taman Kota",
+      "lat": -6.1572,
+      "lon": 106.7579,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00252",
+      "name": "Tegal Parang Arah Timur",
+      "lat": -6.239,
+      "lon": 106.8311,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00066",
+      "name": "Gatot Subroto Jamsostek Arah Timur",
+      "lat": -6.2326,
+      "lon": 106.8216,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00107",
+      "name": "Kebayoran Lama Bungur",
+      "lat": -6.2527,
+      "lon": 106.7816,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00086",
+      "name": "Jatinegara RS Premier",
+      "lat": -6.2214,
+      "lon": 106.8681,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00020",
+      "name": "Buaran",
+      "lat": -6.2151,
+      "lon": 106.9177,
+      "built_year": 2011,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Tangga)",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00298",
+      "name": "Dukuh Atas 2",
+      "lat": -6.2045,
+      "lon": 106.8233,
+      "built_year": 2006,
+      "remarks": "SKY WOLK / PEMABNGUNAN BARU/PELICAN",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00279",
+      "name": "Pancoran Tugu Arah Timur",
+      "lat": -6.2431,
+      "lon": 106.8439,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00201",
+      "name": "Rawa Buaya",
+      "lat": -6.1539,
+      "lon": 106.7262,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / PEMB BARU TH 2010 ( RAMP, TANGGA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00175",
+      "name": "Pesakih",
+      "lat": -6.1548,
+      "lon": 106.7153,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "B02244P",
+      "name": "Masjid Al Huda Kemayoran",
+      "lat": -6.1638,
+      "lon": 106.8527,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00226",
+      "name": "Slipi Kemanggisan Arah Utara",
+      "lat": -6.1899,
+      "lon": 106.7969,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00037",
+      "name": "Cempaka Tengah",
+      "lat": -6.1704,
+      "lon": 106.8666,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00120",
+      "name": "Kuningan Madya",
+      "lat": -6.2134,
+      "lon": 106.8305,
+      "remarks": "",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00088",
+      "name": "Jembatan Baru",
+      "lat": -6.1548,
+      "lon": 106.7304,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00254",
+      "name": "Tendean",
+      "lat": -6.2402,
+      "lon": 106.831,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00200",
+      "name": "Rawa Barat",
+      "lat": -6.2389,
+      "lon": 106.8162,
+      "remarks": "",
+      "corridor": "13 : Ciledug - Tendean"
+    },
+    {
+      "id": "P00295",
+      "name": "Mangga Besar Arah Utara",
+      "lat": -6.1532,
+      "lon": 106.8175,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00103",
+      "name": "Karet Kuningan",
+      "lat": -6.2167,
+      "lon": 106.8307,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00187",
+      "name": "Pos Pengumben",
+      "lat": -6.2129,
+      "lon": 106.7723,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp-Ramp-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00010",
+      "name": "Bank Indonesia Arah Utara",
+      "lat": -6.1828,
+      "lon": 106.8228,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00239",
+      "name": "Sunter Boulevard Barat",
+      "lat": -6.1497,
+      "lon": 106.889,
+      "built_year": 2012,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP SEMUA )",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "B03885P",
+      "name": "Sbr. Jembatan Sukamulya III",
+      "lat": -6.1705,
+      "lon": 106.8521,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00281",
+      "name": "Slipi Petamburan Arah Selatan",
+      "lat": -6.2019,
+      "lon": 106.8,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B00083P",
+      "name": "Atrium 1",
+      "lat": -6.1778,
+      "lon": 106.8412,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00099",
+      "name": "Kalideres",
+      "lat": -6.1544,
+      "lon": 106.7055,
+      "remarks": "",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00250",
+      "name": "Tebet Eco Park II Arah Timur",
+      "lat": -6.2431,
+      "lon": 106.8521,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B00501P",
+      "name": "Gg. L Utan Panjang Timur",
+      "lat": -6.1669,
+      "lon": 106.8526,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00219",
+      "name": "Senen",
+      "lat": -6.1782,
+      "lon": 106.8425,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00102",
+      "name": "Kampung Sumur",
+      "lat": -6.2144,
+      "lon": 106.9119,
+      "built_year": 2011,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Tangga)",
+      "corridor": "11 : Pulo Gebang - Matraman"
+    },
+    {
+      "id": "P00195",
+      "name": "Pulo Mas",
+      "lat": -6.1747,
+      "lon": 106.8928,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00251",
+      "name": "Tegal Parang Arah Barat",
+      "lat": -6.2389,
+      "lon": 106.8302,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B04517P",
+      "name": "Sbr. Sunter Icon",
+      "lat": -6.1348,
+      "lon": 106.856,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00182",
+      "name": "Plumpang Pertamina Arah Utara",
+      "lat": -6.1285,
+      "lon": 106.8937,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00065",
+      "name": "Gatot Subroto Jamsostek Arah Barat",
+      "lat": -6.2336,
+      "lon": 106.8221,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00284",
+      "name": "Stasiun Jatinegara Arah Selatan",
+      "lat": -6.2155,
+      "lon": 106.8744,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00007",
+      "name": "Balai Kota",
+      "lat": -6.1805,
+      "lon": 106.8265,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "B01960P",
+      "name": "Kemayoran Landas Pacu Timur 1",
+      "lat": -6.1524,
+      "lon": 106.8539,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00207",
+      "name": "RS Islam",
+      "lat": -6.1687,
+      "lon": 106.8703,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00112",
+      "name": "Kejaksaan Agung",
+      "lat": -6.2405,
+      "lon": 106.7984,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00029",
+      "name": "Cawang Ciliwung Arah Barat",
+      "lat": -6.2433,
+      "lon": 106.8636,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00091",
+      "name": "Jembatan Gantung",
+      "lat": -6.1555,
+      "lon": 106.7495,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00030",
+      "name": "Cawang Ciliwung Arah Timur",
+      "lat": -6.243,
+      "lon": 106.8635,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00241",
+      "name": "Sunter Kelapa Gading Arah Utara",
+      "lat": -6.1429,
+      "lon": 106.8908,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00123",
+      "name": "Landmark Pluit Auto Plaza",
+      "lat": -6.1253,
+      "lon": 106.7997,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00246",
+      "name": "Tanah Merdeka Arah Barat",
+      "lat": -6.3082,
+      "lon": 106.8739,
+      "remarks": "",
+      "corridor": "7 : Kampung Rambutan - Bidara Cina"
+    },
+    {
+      "id": "P00012",
+      "name": "Bendungan Hilir",
+      "lat": -6.2171,
+      "lon": 106.8153,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00039",
+      "name": "Cikoko Stasiun Cawang Arah Barat",
+      "lat": -6.2434,
+      "lon": 106.8581,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B03882P",
+      "name": "Sbr. Jembatan Item",
+      "lat": -6.1302,
+      "lon": 106.8551,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00013",
+      "name": "Kota",
+      "lat": -6.1368,
+      "lon": 106.8149,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00042",
+      "name": "Cipinang Kebon Nanas",
+      "lat": -6.2317,
+      "lon": 106.8764,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00286",
+      "name": "Plumpang Pertamina Arah Selatan",
+      "lat": -6.1285,
+      "lon": 106.8938,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00196",
+      "name": "Pulo Mas Bypass",
+      "lat": -6.177,
+      "lon": 106.876,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00125",
+      "name": "Latumeten Stasiun Grogol Arah Selatan",
+      "lat": -6.1604,
+      "lon": 106.791,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00193",
+      "name": "Pulo Gadung 2",
+      "lat": -6.1831,
+      "lon": 106.9087,
+      "remarks": "",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00114",
+      "name": "Kemayoran Landas Pacu Timur",
+      "lat": -6.1522,
+      "lon": 106.8542,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00237",
+      "name": "Sumur Bor",
+      "lat": -6.153,
+      "lon": 106.7193,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "B01526P",
+      "name": "Jln. Puma Bundaran Kemayoran",
+      "lat": -6.1559,
+      "lon": 106.8513,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00163",
+      "name": "Pedongkelan",
+      "lat": -6.168,
+      "lon": 106.8825,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP SEMUA )",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00122",
+      "name": "Kwitang",
+      "lat": -6.1811,
+      "lon": 106.8387,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "B01311P",
+      "name": "Jln. Kwitang Timur",
+      "lat": -6.1738,
+      "lon": 106.8518,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00292",
+      "name": "Harmoni Arah Selatan",
+      "lat": -6.1627,
+      "lon": 106.8199,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00105",
+      "name": "Kayu Putih Rawasari",
+      "lat": -6.1875,
+      "lon": 106.8754,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Tangga-Ramp-Ramp)",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "B01745P",
+      "name": "Jembatan Item",
+      "lat": -6.1301,
+      "lon": 106.8549,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00008",
+      "name": "Bandengan Selatan",
+      "lat": -6.1363,
+      "lon": 106.8035,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00036",
+      "name": "Cempaka Putih",
+      "lat": -6.1742,
+      "lon": 106.8764,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp Semua)",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00269",
+      "name": "Velodrome",
+      "lat": -6.1935,
+      "lon": 106.8883,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00205",
+      "name": "RS Harapan Kita Arah Selatan",
+      "lat": -6.1852,
+      "lon": 106.7971,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00090",
+      "name": "Jembatan Dua",
+      "lat": -6.1433,
+      "lon": 106.7935,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00185",
+      "name": "Pondok Indah 2",
+      "lat": -6.2672,
+      "lon": 106.7836,
+      "built_year": 2008,
+      "remarks": "JPO Eksisting (Tangga-Ramp-Tangga)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00282",
+      "name": "Grogol 2 Arah Selatan",
+      "lat": -6.1674,
+      "lon": 106.7886,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "B00861P",
+      "name": "Jln. Angkasa Bundaran Kemayoran",
+      "lat": -6.156,
+      "lon": 106.8507,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00079",
+      "name": "Imigrasi",
+      "lat": -6.257,
+      "lon": 106.8281,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00160",
+      "name": "Patra Kuningan",
+      "lat": -6.2327,
+      "lon": 106.8321,
+      "built_year": 2006,
+      "remarks": "JPO BETON / EKSISTING ( RAMP, TANGGA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00249",
+      "name": "Tebet Eco Park II Arah Barat",
+      "lat": -6.2433,
+      "lon": 106.8521,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00178",
+      "name": "PGC 2",
+      "lat": -6.2619,
+      "lon": 106.8657,
+      "remarks": "",
+      "corridor": "10 : Tanjung Priok - PGC 2"
+    },
+    {
+      "id": "P00199",
+      "name": "Ragunan",
+      "lat": -6.3058,
+      "lon": 106.8195,
+      "built_year": 2006,
+      "remarks": "PELICAN",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "P00172",
+      "name": "Permata Hijau",
+      "lat": -6.2214,
+      "lon": 106.7832,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp Semua)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00181",
+      "name": "Pluit",
+      "lat": -6.1158,
+      "lon": 106.7904,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00111",
+      "name": "Kedoya Green Garden",
+      "lat": -6.1644,
+      "lon": 106.763,
+      "built_year": 2008,
+      "remarks": "JPO Baru Baja (Ramp Semua)",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00192",
+      "name": "Pulo Gadung 1",
+      "lat": -6.1832,
+      "lon": 106.9091,
+      "remarks": "",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "B05389P",
+      "name": "SMPN 78",
+      "lat": -6.1735,
+      "lon": 106.8523,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "B02907P",
+      "name": "Polsek Kemayoran",
+      "lat": -6.1599,
+      "lon": 106.852,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00211",
+      "name": "S Parman Podomoro City Arah Barat",
+      "lat": -6.1756,
+      "lon": 106.7922,
+      "remarks": "",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00095",
+      "name": "JIS",
+      "lat": -6.1267,
+      "lon": 106.8559,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00049",
+      "name": "Deplu",
+      "lat": -6.1735,
+      "lon": 106.8347,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "2 : Pulo Gadung - Monas"
+    },
+    {
+      "id": "P00222",
+      "name": "Setiabudi Utara",
+      "lat": -6.2092,
+      "lon": 106.8302,
+      "built_year": 2006,
+      "remarks": "JPO BAJA / PEMBANGUNAN BARU ( RAMP SEMUA )",
+      "corridor": "6 : Ragunan - Dukuh Atas 2"
+    },
+    {
+      "id": "B01188P",
+      "name": "Jln. Kali Baru Timur VII",
+      "lat": -6.1668,
+      "lon": 106.8522,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "B01601P",
+      "name": "Jln. Sukamulya III Harapan Mulya",
+      "lat": -6.1704,
+      "lon": 106.8524,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00075",
+      "name": "Grogol 2 Arah Utara",
+      "lat": -6.1673,
+      "lon": 106.7878,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00179",
+      "name": "Pinang Ranti",
+      "lat": -6.2911,
+      "lon": 106.8863,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00218",
+      "name": "Senayan JCC Arah Timur",
+      "lat": -6.2141,
+      "lon": 106.809,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00050",
+      "name": "Dispenda Samsat Barat",
+      "lat": -6.1546,
+      "lon": 106.7381,
+      "remarks": "",
+      "corridor": "3 : Kalideres - Bundaran HI via Veteran"
+    },
+    {
+      "id": "P00147",
+      "name": "Pasar Baru",
+      "lat": -6.1661,
+      "lon": 106.8348,
+      "built_year": 2004,
+      "remarks": "JPO BAJA / EKSISTING ( RAMP SEMUA )",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00143",
+      "name": "Pancoran Barat Arah Barat",
+      "lat": -6.2417,
+      "lon": 106.8372,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00296",
+      "name": "Mangga Besar Arah Selatan",
+      "lat": -6.1539,
+      "lon": 106.818,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00287",
+      "name": "Permai Koja Arah Selatan",
+      "lat": -6.1144,
+      "lon": 106.8931,
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00217",
+      "name": "Senayan JCC Arah Barat",
+      "lat": -6.2139,
+      "lon": 106.8084,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00072",
+      "name": "Glodok",
+      "lat": -6.1445,
+      "lon": 106.8154,
+      "built_year": 2003,
+      "remarks": "PELICAN",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00283",
+      "name": "Jembatan Tiga Arah Selatan",
+      "lat": -6.1334,
+      "lon": 106.7927,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B02734P",
+      "name": "Pengadilan Negeri Jakut",
+      "lat": -6.1268,
+      "lon": 106.8565,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00132",
+      "name": "Manggarai",
+      "lat": -6.2089,
+      "lon": 106.8474,
+      "built_year": 2006,
+      "remarks": "PELICAN",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "remarks": "",
+      "corridor": "12 : Tanjung Priok - Pluit"
+    },
+    {
+      "id": "P00186",
+      "name": "Pondok Pinang",
+      "lat": -6.2822,
+      "lon": 106.772,
+      "built_year": 2008,
+      "remarks": "Pelican",
+      "corridor": "8 : Lebak Bulus - Pasar Baru via Tomang"
+    },
+    {
+      "id": "P00227",
+      "name": "Slipi Petamburan Arah Utara",
+      "lat": -6.202,
+      "lon": 106.7999,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "B05866P",
+      "name": "Wahidin 1",
+      "lat": -6.1699,
+      "lon": 106.8394,
+      "remarks": "",
+      "corridor": "14 : Jakarta International Stadium - Senen"
+    },
+    {
+      "id": "P00052",
+      "name": "Dukuh Atas 2",
+      "lat": -6.2033,
+      "lon": 106.8238,
+      "built_year": 2006,
+      "remarks": "SKY WOLK / PEMABNGUNAN BARU/PELICAN",
+      "corridor": "4 : Pulo Gadung 2 - Tosari"
+    },
+    {
+      "id": "P00126",
+      "name": "Latumeten Stasiun Grogol Arah Utara",
+      "lat": -6.1611,
+      "lon": 106.7904,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00009",
+      "name": "Bank Indonesia Arah Selatan",
+      "lat": -6.1848,
+      "lon": 106.8233,
+      "remarks": "",
+      "corridor": "1 : Blok M - Kota"
+    },
+    {
+      "id": "P00093",
+      "name": "Jembatan Tiga Arah Utara",
+      "lat": -6.1334,
+      "lon": 106.7927,
+      "remarks": "",
+      "corridor": "9 : Pinang Ranti - Pluit"
+    },
+    {
+      "id": "P00210",
+      "name": "RSPAD",
+      "lat": -6.1755,
+      "lon": 106.8367,
+      "built_year": 2004,
+      "remarks": "PELICAN",
+      "corridor": "2 : Pulo Gadung - Monas"
+    }
+  ],
+  "edges": [
+    {
+      "from": "ASEAN",
+      "to": "Harmoni Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "ASEAN",
+      "to": "Mangga Besar Arah Utara",
+      "weight": 40
+    },
+    {
+      "from": "ASMI",
+      "to": "Cempaka Timur",
+      "weight": 1
+    },
+    {
+      "from": "ASMI",
+      "to": "Deplu",
+      "weight": 1
+    },
+    {
+      "from": "ASMI",
+      "to": "Pasar Cempaka Putih",
+      "weight": 19
+    },
+    {
+      "from": "ASMI",
+      "to": "Pecenongan",
+      "weight": 17
+    },
+    {
+      "from": "ASMI",
+      "to": "Pedongkelan",
+      "weight": 1
+    },
+    {
+      "from": "ASMI",
+      "to": "Pulo Gadung 1",
+      "weight": 21
+    },
+    {
+      "from": "ASMI",
+      "to": "Pulo Mas",
+      "weight": 20
+    },
+    {
+      "from": "Adam Malik",
+      "to": "CBD Ciledug",
+      "weight": 2
+    },
+    {
+      "from": "Adam Malik",
+      "to": "CSW 1",
+      "weight": 18
+    },
+    {
+      "from": "Adam Malik",
+      "to": "Cipulir",
+      "weight": 17
+    },
+    {
+      "from": "Adam Malik",
+      "to": "Puri Beta 2",
+      "weight": 35
+    },
+    {
+      "from": "Adam Malik",
+      "to": "Rawa Barat",
+      "weight": 19
+    },
+    {
+      "from": "Ahmad Yani Bea Cukai",
+      "to": "Cawang Soetoyo",
+      "weight": 20
+    },
+    {
+      "from": "Ahmad Yani Bea Cukai",
+      "to": "PGC 2",
+      "weight": 1
+    },
+    {
+      "from": "Ahmad Yani Bea Cukai",
+      "to": "Pemuda Pramuka",
+      "weight": 19
+    },
+    {
+      "from": "Ancol",
+      "to": "Budi Utomo",
+      "weight": 20
+    },
+    {
+      "from": "Ancol",
+      "to": "Jembatan Merah",
+      "weight": 20
+    },
+    {
+      "from": "Ancol",
+      "to": "Pasar Baru Timur",
+      "weight": 1
+    },
+    {
+      "from": "Ancol",
+      "to": "Tegalan",
+      "weight": 20
+    },
+    {
+      "from": "Atrium",
+      "to": "Istiqlal",
+      "weight": 19
+    },
+    {
+      "from": "Atrium",
+      "to": "Pecenongan",
+      "weight": 7
+    },
+    {
+      "from": "Atrium",
+      "to": "RSPAD",
+      "weight": 1
+    },
+    {
+      "from": "Atrium 1",
+      "to": "RSPAD 3",
+      "weight": 1
+    },
+    {
+      "from": "Atrium 1",
+      "to": "Term. Senen",
+      "weight": 19
+    },
+    {
+      "from": "Atrium 1",
+      "to": "Wahidin 1",
+      "weight": 20
+    },
+    {
+      "from": "BKN",
+      "to": "BNN Arah Barat",
+      "weight": 38
+    },
+    {
+      "from": "BKN",
+      "to": "Cawang Otista",
+      "weight": 18
+    },
+    {
+      "from": "BKN",
+      "to": "Cipinang Kebon Nanas",
+      "weight": 1
+    },
+    {
+      "from": "BKN",
+      "to": "Flyover Raya Bogor",
+      "weight": 1
+    },
+    {
+      "from": "BKN",
+      "to": "Gelanggang Remaja",
+      "weight": 2
+    },
+    {
+      "from": "BKN",
+      "to": "PGC 1",
+      "weight": 1
+    },
+    {
+      "from": "BKN",
+      "to": "PGC 2",
+      "weight": 2
+    },
+    {
+      "from": "BKN",
+      "to": "Pasar Induk Kramat Jati",
+      "weight": 1
+    },
+    {
+      "from": "BKN",
+      "to": "Permai Koja Arah Utara",
+      "weight": 18
+    },
+    {
+      "from": "BKN",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 19
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Bidara Cina",
+      "weight": 19
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Cawang Otista",
+      "weight": 2
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Cawang UKI",
+      "weight": 20
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Flyover Raya Bogor",
+      "weight": 1
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Garuda Taman Mini",
+      "weight": 1
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Gelanggang Remaja",
+      "weight": 19
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Kampung Rambutan",
+      "weight": 2
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Pancoran Tugu Arah Barat",
+      "weight": 19
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Pasar Kramat Jati",
+      "weight": 1
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "RS Harapan Bunda",
+      "weight": 1
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "BNN Arah Barat",
+      "to": "Tebet Eco Park II Arah Barat",
+      "weight": 17
+    },
+    {
+      "from": "BNN Arah Timur",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "BNN Arah Timur",
+      "to": "Garuda Taman Mini",
+      "weight": 21
+    },
+    {
+      "from": "BNN Arah Timur",
+      "to": "Pinang Ranti",
+      "weight": 1
+    },
+    {
+      "from": "BNN LRT",
+      "to": "BKN",
+      "weight": 1
+    },
+    {
+      "from": "BNN LRT",
+      "to": "BNN Arah Timur",
+      "weight": 18
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Bidara Cina",
+      "weight": 27
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Cawang Otista",
+      "weight": 75
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Garuda Taman Mini",
+      "weight": 1
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Gelanggang Remaja",
+      "weight": 20
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Jembatan Tiga Arah Utara",
+      "weight": 6
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Tanah Merdeka Arah Timur",
+      "weight": 19
+    },
+    {
+      "from": "BNN LRT",
+      "to": "Tebet Eco Park II Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Balai Kota",
+      "to": "Bermis",
+      "weight": 18
+    },
+    {
+      "from": "Balai Kota",
+      "to": "Rawa Selatan",
+      "weight": 7
+    },
+    {
+      "from": "Balai Kota",
+      "to": "Senen",
+      "weight": 1
+    },
+    {
+      "from": "Bandengan Selatan",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "Bandengan Selatan",
+      "to": "Pluit",
+      "weight": 9
+    },
+    {
+      "from": "Bank Indonesia Arah Utara",
+      "to": "Jelambar",
+      "weight": 1
+    },
+    {
+      "from": "Bank Indonesia Arah Utara",
+      "to": "Monas",
+      "weight": 16
+    },
+    {
+      "from": "Bank Indonesia Arah Utara",
+      "to": "Sawah Besar Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": "Blok M",
+      "weight": 1
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": "Karet Sudirman",
+      "weight": 1
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": "Kejaksaan Agung",
+      "weight": 7
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": "MH Thamrin",
+      "weight": 1
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": "Masjid Agung",
+      "weight": 1
+    },
+    {
+      "from": "Bendungan Hilir",
+      "to": "Polda Metro Jaya",
+      "weight": 1
+    },
+    {
+      "from": "Bermis",
+      "to": "Manggarai",
+      "weight": 1
+    },
+    {
+      "from": "Bermis",
+      "to": "Pramuka LIA",
+      "weight": 19
+    },
+    {
+      "from": "Bermis",
+      "to": "Pulo Gadung 1",
+      "weight": 22
+    },
+    {
+      "from": "Bermis",
+      "to": "Pulo Gadung 2",
+      "weight": 2
+    },
+    {
+      "from": "Bermis",
+      "to": "Sunan Giri",
+      "weight": 1
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "BNN Arah Barat",
+      "weight": 38
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "Cawang UKI",
+      "weight": 2
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "Flyover Raya Bogor",
+      "weight": 16
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "Jatinegara RS Premier",
+      "weight": 19
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "PGC 1",
+      "weight": 1
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "Pasar Induk Kramat Jati",
+      "weight": 20
+    },
+    {
+      "from": "Bidara Cina",
+      "to": "RS Harapan Bunda",
+      "weight": 18
+    },
+    {
+      "from": "Blok M",
+      "to": "Polda Metro Jaya",
+      "weight": 1
+    },
+    {
+      "from": "Blok M",
+      "to": "Tosari",
+      "weight": 17
+    },
+    {
+      "from": "Buaran",
+      "to": "Flyover Klender",
+      "weight": 1
+    },
+    {
+      "from": "Buaran",
+      "to": "Flyover Radin Inten",
+      "weight": 18
+    },
+    {
+      "from": "Buaran",
+      "to": "Imigrasi Jakarta Timur",
+      "weight": 19
+    },
+    {
+      "from": "Buaran",
+      "to": "Matraman 1",
+      "weight": 20
+    },
+    {
+      "from": "Buaran",
+      "to": "Perumnas Klender",
+      "weight": 22
+    },
+    {
+      "from": "Buaran",
+      "to": "Pulo Gebang",
+      "weight": 21
+    },
+    {
+      "from": "Buaran",
+      "to": "Walikota Jakarta Timur",
+      "weight": 1
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Ancol",
+      "weight": 1
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 1
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Jembatan Merah",
+      "weight": 40
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Matraman 1",
+      "weight": 20
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Pasar Baru Timur",
+      "weight": 21
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Salemba Carolus",
+      "weight": 1
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Salemba UI",
+      "weight": 2
+    },
+    {
+      "from": "Budi Utomo",
+      "to": "Slamet Riyadi",
+      "weight": 1
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Departemen Pertanian",
+      "weight": 1
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Duren Tiga",
+      "weight": 7
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Latuharhary",
+      "weight": 6
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Mampang Prapatan",
+      "weight": 1
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Pejaten",
+      "weight": 18
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Ragunan",
+      "weight": 19
+    },
+    {
+      "from": "Buncit Indah",
+      "to": "Setiabudi Utara",
+      "weight": 1
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Harmoni Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Indosiar",
+      "weight": 14
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Jembatan Gantung",
+      "weight": 20
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Kejaksaan Agung",
+      "weight": 18
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Olimo",
+      "weight": 1
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Petojo",
+      "weight": 20
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "RS Sumber Waras",
+      "weight": 19
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Rawa Buaya",
+      "weight": 1
+    },
+    {
+      "from": "Bundaran HI",
+      "to": "Taman Kota",
+      "weight": 1
+    },
+    {
+      "from": "Bundaran Senayan",
+      "to": "Karet Sudirman",
+      "weight": 20
+    },
+    {
+      "from": "Bundaran Senayan",
+      "to": "Kejaksaan Agung",
+      "weight": 21
+    },
+    {
+      "from": "Bundaran Senayan",
+      "to": "Monas",
+      "weight": 20
+    },
+    {
+      "from": "Bundaran Senayan",
+      "to": "Sawah Besar Arah Utara",
+      "weight": 18
+    },
+    {
+      "from": "Bundaran Senayan",
+      "to": "Tosari",
+      "weight": 1
+    },
+    {
+      "from": "CBD Ciledug",
+      "to": "Adam Malik",
+      "weight": 20
+    },
+    {
+      "from": "CBD Ciledug",
+      "to": "Cipulir",
+      "weight": 18
+    },
+    {
+      "from": "CBD Ciledug",
+      "to": "Kebayoran Lama",
+      "weight": 1
+    },
+    {
+      "from": "CBD Ciledug",
+      "to": "Seskoal",
+      "weight": 1
+    },
+    {
+      "from": "CSW 1",
+      "to": "CBD Ciledug",
+      "weight": 1
+    },
+    {
+      "from": "CSW 1",
+      "to": "Cipulir",
+      "weight": 21
+    },
+    {
+      "from": "CSW 1",
+      "to": "JORR",
+      "weight": 19
+    },
+    {
+      "from": "CSW 1",
+      "to": "Mayestik",
+      "weight": 20
+    },
+    {
+      "from": "CSW 1",
+      "to": "Tendean",
+      "weight": 7
+    },
+    {
+      "from": "CSW 1",
+      "to": "Tirtayasa",
+      "weight": 18
+    },
+    {
+      "from": "Cawang Ciliwung Arah Barat",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Ciliwung Arah Barat",
+      "to": "RS Harapan Kita Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Ciliwung Arah Barat",
+      "to": "Semanggi",
+      "weight": 2
+    },
+    {
+      "from": "Cawang Ciliwung Arah Timur",
+      "to": "BNN Arah Timur",
+      "weight": 6
+    },
+    {
+      "from": "Cawang Ciliwung Arah Timur",
+      "to": "BNN LRT",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Ciliwung Arah Timur",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Ciliwung Arah Timur",
+      "to": "Pinang Ranti",
+      "weight": 7
+    },
+    {
+      "from": "Cawang Otista",
+      "to": "BKN",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Otista",
+      "to": "BNN LRT",
+      "weight": 17
+    },
+    {
+      "from": "Cawang Otista",
+      "to": "Bidara Cina",
+      "weight": 26
+    },
+    {
+      "from": "Cawang Otista",
+      "to": "Gelanggang Remaja",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Otista",
+      "to": "PGC 1",
+      "weight": 21
+    },
+    {
+      "from": "Cawang Otista",
+      "to": "Pasar Induk Kramat Jati",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Soetoyo",
+      "to": "Ahmad Yani Bea Cukai",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Soetoyo",
+      "to": "BKN",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Soetoyo",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Soetoyo",
+      "to": "PGC 2",
+      "weight": 19
+    },
+    {
+      "from": "Cawang Soetoyo",
+      "to": "Pemuda Pramuka",
+      "weight": 1
+    },
+    {
+      "from": "Cawang Soetoyo",
+      "to": "Utan Kayu Rawamangun",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "BKN",
+      "weight": 26
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "BNN LRT",
+      "weight": 20
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Bidara Cina",
+      "weight": 39
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Cempaka Putih",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Enggano",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Flyover Raya Bogor",
+      "weight": 18
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Garuda Taman Mini",
+      "weight": 20
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "PGC 1",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "PGC 2",
+      "weight": 39
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Pasar Induk Kramat Jati",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Pasar Kramat Jati",
+      "weight": 7
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Pedati Prumpung",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Permai Koja Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Pluit",
+      "weight": 19
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Semanggi",
+      "weight": 8
+    },
+    {
+      "from": "Cawang UKI",
+      "to": "Tanah Merdeka Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Enggano",
+      "weight": 19
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Kayu Putih Rawasari",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 18
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Pulo Mas Bypass",
+      "weight": 7
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Sunter Kelapa Gading Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Mas",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 2
+    },
+    {
+      "from": "Cempaka Putih",
+      "to": "Cipinang Kebon Nanas",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Putih",
+      "to": "Stasiun Jatinegara Arah Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Putih",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Tengah",
+      "to": "Gambir 1",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Tengah",
+      "to": "Istiqlal",
+      "weight": 20
+    },
+    {
+      "from": "Cempaka Tengah",
+      "to": "Pulo Mas",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Tengah",
+      "to": "Senen",
+      "weight": 7
+    },
+    {
+      "from": "Cempaka Timur",
+      "to": "Istiqlal",
+      "weight": 17
+    },
+    {
+      "from": "Cempaka Timur",
+      "to": "Pedongkelan",
+      "weight": 17
+    },
+    {
+      "from": "Cempaka Timur",
+      "to": "RSPAD",
+      "weight": 1
+    },
+    {
+      "from": "Cempaka Timur",
+      "to": "Rawa Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Cikoko Stasiun Cawang Arah Barat",
+      "to": "Grogol 2 Arah Utara",
+      "weight": 7
+    },
+    {
+      "from": "Cikoko Stasiun Cawang Arah Barat",
+      "to": "Pluit",
+      "weight": 1
+    },
+    {
+      "from": "Cikoko Stasiun Cawang Arah Timur",
+      "to": "BNN LRT",
+      "weight": 20
+    },
+    {
+      "from": "Cipinang",
+      "to": "Flyover Jatinegara",
+      "weight": 17
+    },
+    {
+      "from": "Cipinang",
+      "to": "Matraman 1",
+      "weight": 18
+    },
+    {
+      "from": "Cipinang",
+      "to": "Matraman Baru",
+      "weight": 1
+    },
+    {
+      "from": "Cipinang",
+      "to": "Perumnas Klender",
+      "weight": 19
+    },
+    {
+      "from": "Cipinang",
+      "to": "Stasiun Klender",
+      "weight": 1
+    },
+    {
+      "from": "Cipinang Kebon Nanas",
+      "to": "Cempaka Mas",
+      "weight": 1
+    },
+    {
+      "from": "Cipinang Kebon Nanas",
+      "to": "Yos Sudarso Kodamar",
+      "weight": 1
+    },
+    {
+      "from": "Cipulir",
+      "to": "Adam Malik",
+      "weight": 41
+    },
+    {
+      "from": "Cipulir",
+      "to": "CSW 1",
+      "weight": 27
+    },
+    {
+      "from": "Cipulir",
+      "to": "JORR",
+      "weight": 45
+    },
+    {
+      "from": "Cipulir",
+      "to": "Puri Beta 2",
+      "weight": 39
+    },
+    {
+      "from": "Cipulir",
+      "to": "Tirtayasa",
+      "weight": 1
+    },
+    {
+      "from": "Danau Agung",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 8
+    },
+    {
+      "from": "Danau Agung",
+      "to": "Pangeran Jayakarta",
+      "weight": 21
+    },
+    {
+      "from": "Danau Agung",
+      "to": "Penjaringan",
+      "weight": 21
+    },
+    {
+      "from": "Danau Agung",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 6
+    },
+    {
+      "from": "Danau Agung",
+      "to": "SMP 140",
+      "weight": 37
+    },
+    {
+      "from": "Danau Agung",
+      "to": "Sunter Boulevard Barat",
+      "weight": 1
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Atrium 1",
+      "weight": 1
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Gg. L Utan Panjang Timur",
+      "weight": 1
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Honda Letjen Suprapto",
+      "weight": 6
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Jln. H. Ung",
+      "weight": 17
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Kemayoran Landas Pacu Timur 1",
+      "weight": 1
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Polsek Kemayoran",
+      "weight": 1
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "RSPAD 3",
+      "weight": 20
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Term. Senen",
+      "weight": 2
+    },
+    {
+      "from": "Danau Agung 1",
+      "to": "Wahidin 1",
+      "weight": 19
+    },
+    {
+      "from": "Departemen Kesehatan",
+      "to": "Dukuh Atas 2",
+      "weight": 1
+    },
+    {
+      "from": "Departemen Kesehatan",
+      "to": "Karet Kuningan",
+      "weight": 21
+    },
+    {
+      "from": "Departemen Kesehatan",
+      "to": "Kuningan Madya",
+      "weight": 14
+    },
+    {
+      "from": "Departemen Kesehatan",
+      "to": "Latuharhary",
+      "weight": 1
+    },
+    {
+      "from": "Departemen Kesehatan",
+      "to": "Patra Kuningan",
+      "weight": 1
+    },
+    {
+      "from": "Departemen Kesehatan",
+      "to": "Setiabudi Utara",
+      "weight": 1
+    },
+    {
+      "from": "Departemen Pertanian",
+      "to": "Karet Kuningan",
+      "weight": 1
+    },
+    {
+      "from": "Departemen Pertanian",
+      "to": "Kuningan Madya",
+      "weight": 1
+    },
+    {
+      "from": "Departemen Pertanian",
+      "to": "Kuningan Timur",
+      "weight": 37
+    },
+    {
+      "from": "Departemen Pertanian",
+      "to": "Ragunan",
+      "weight": 27
+    },
+    {
+      "from": "Deplu",
+      "to": "Monas",
+      "weight": 1
+    },
+    {
+      "from": "Dispenda Samsat Barat",
+      "to": "Jembatan Baru",
+      "weight": 7
+    },
+    {
+      "from": "Dispenda Samsat Barat",
+      "to": "Jembatan Gantung",
+      "weight": 8
+    },
+    {
+      "from": "Dispenda Samsat Barat",
+      "to": "Rawa Buaya",
+      "weight": 1
+    },
+    {
+      "from": "Dittopad",
+      "to": "JIS",
+      "weight": 18
+    },
+    {
+      "from": "Dittopad",
+      "to": "Jln. Kali Baru Timur VII",
+      "weight": 19
+    },
+    {
+      "from": "Dittopad",
+      "to": "Kemayoran Landas Pacu Timur 2",
+      "weight": 1
+    },
+    {
+      "from": "Dittopad",
+      "to": "Masjid Al Huda Kemayoran",
+      "weight": 18
+    },
+    {
+      "from": "Dittopad",
+      "to": "Sunter Icon",
+      "weight": 8
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": "Gelora Bung Karno",
+      "weight": 1
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": "Harmoni Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": "Kejaksaan Agung",
+      "weight": 2
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": "MH Thamrin",
+      "weight": 20
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": "Masjid Agung",
+      "weight": 19
+    },
+    {
+      "from": "Dukuh Atas",
+      "to": "Monas",
+      "weight": 1
+    },
+    {
+      "from": "Dukuh Atas 2",
+      "to": "Bermis",
+      "weight": 1
+    },
+    {
+      "from": "Dukuh Atas 2",
+      "to": "Buncit Indah",
+      "weight": 18
+    },
+    {
+      "from": "Dukuh Atas 2",
+      "to": "Karet Kuningan",
+      "weight": 1
+    },
+    {
+      "from": "Dukuh Atas 2",
+      "to": "Sunan Giri",
+      "weight": 7
+    },
+    {
+      "from": "Duren Tiga",
+      "to": "Departemen Pertanian",
+      "weight": 1
+    },
+    {
+      "from": "Duren Tiga",
+      "to": "Dukuh Atas 2",
+      "weight": 1
+    },
+    {
+      "from": "Duren Tiga",
+      "to": "Imigrasi",
+      "weight": 40
+    },
+    {
+      "from": "Duren Tiga",
+      "to": "Kuningan Madya",
+      "weight": 18
+    },
+    {
+      "from": "Duren Tiga",
+      "to": "Mampang Prapatan",
+      "weight": 19
+    },
+    {
+      "from": "Duren Tiga",
+      "to": "Warung Jati",
+      "weight": 7
+    },
+    {
+      "from": "Duri Kepa",
+      "to": "Jelambar",
+      "weight": 20
+    },
+    {
+      "from": "Duri Kepa",
+      "to": "Juanda",
+      "weight": 1
+    },
+    {
+      "from": "Duri Kepa",
+      "to": "Pasar Baru",
+      "weight": 6
+    },
+    {
+      "from": "Duri Kepa",
+      "to": "Pondok Indah 1",
+      "weight": 1
+    },
+    {
+      "from": "Duri Kepa",
+      "to": "Tanah Kusir Kodim",
+      "weight": 17
+    },
+    {
+      "from": "Duri Kepa",
+      "to": "Tomang Mandala",
+      "weight": 18
+    },
+    {
+      "from": "Enggano",
+      "to": "Cawang Soetoyo",
+      "weight": 1
+    },
+    {
+      "from": "Enggano",
+      "to": "Penas Kalimalang",
+      "weight": 1
+    },
+    {
+      "from": "Enggano",
+      "to": "Sunter Boulevard Barat",
+      "weight": 1
+    },
+    {
+      "from": "Enggano",
+      "to": "Tanjung Priok",
+      "weight": 31
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Cipinang",
+      "weight": 20
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Flyover Klender",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Flyover Radin Inten",
+      "weight": 18
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Imigrasi Jakarta Timur",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Matraman Baru",
+      "weight": 19
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Slamet Riyadi",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Jatinegara",
+      "to": "Tegalan",
+      "weight": 19
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Jatinegara RS Premier",
+      "weight": 19
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Kampung Sumur",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Matraman 1",
+      "weight": 34
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Matraman Baru",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Penggilingan",
+      "weight": 39
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Perumnas Klender",
+      "weight": 19
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "St. Jatinegara 2",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Klender",
+      "to": "Tegalan",
+      "weight": 19
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Imigrasi Jakarta Timur",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Pasar Enjo",
+      "weight": 17
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Penggilingan",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Pulo Gebang",
+      "weight": 2
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Slamet Riyadi",
+      "weight": 19
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Stasiun Klender",
+      "weight": 2
+    },
+    {
+      "from": "Flyover Radin Inten",
+      "to": "Walikota Jakarta Timur",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Raya Bogor",
+      "to": "Gelanggang Remaja",
+      "weight": 1
+    },
+    {
+      "from": "Flyover Raya Bogor",
+      "to": "Kampung Rambutan",
+      "weight": 17
+    },
+    {
+      "from": "Flyover Raya Bogor",
+      "to": "Pasar Kramat Jati",
+      "weight": 21
+    },
+    {
+      "from": "Flyover Raya Bogor",
+      "to": "Tanah Merdeka Arah Timur",
+      "weight": 41
+    },
+    {
+      "from": "GOR Sumantri",
+      "to": "Dukuh Atas 2",
+      "weight": 2
+    },
+    {
+      "from": "GOR Sumantri",
+      "to": "Duren Tiga",
+      "weight": 1
+    },
+    {
+      "from": "GOR Sumantri",
+      "to": "Halimun",
+      "weight": 20
+    },
+    {
+      "from": "GOR Sumantri",
+      "to": "Kuningan Madya",
+      "weight": 20
+    },
+    {
+      "from": "GOR Sumantri",
+      "to": "Latuharhary",
+      "weight": 7
+    },
+    {
+      "from": "GOR Sumantri",
+      "to": "SMK 57",
+      "weight": 20
+    },
+    {
+      "from": "Galur",
+      "to": "Cempaka Tengah",
+      "weight": 1
+    },
+    {
+      "from": "Galur",
+      "to": "Deplu",
+      "weight": 1
+    },
+    {
+      "from": "Galur",
+      "to": "Gambir 1",
+      "weight": 1
+    },
+    {
+      "from": "Galur",
+      "to": "Istiqlal",
+      "weight": 1
+    },
+    {
+      "from": "Galur",
+      "to": "Pasar Cempaka Putih",
+      "weight": 1
+    },
+    {
+      "from": "Galur",
+      "to": "Pulo Gadung 1",
+      "weight": 19
+    },
+    {
+      "from": "Galur",
+      "to": "Pulo Mas",
+      "weight": 1
+    },
+    {
+      "from": "Galur",
+      "to": "Rawa Selatan",
+      "weight": 18
+    },
+    {
+      "from": "Gambir 1",
+      "to": "Istiqlal",
+      "weight": 17
+    },
+    {
+      "from": "Gambir 1",
+      "to": "Juanda",
+      "weight": 1
+    },
+    {
+      "from": "Gambir 1",
+      "to": "Pecenongan",
+      "weight": 1
+    },
+    {
+      "from": "Gambir 2",
+      "to": "Bermis",
+      "weight": 1
+    },
+    {
+      "from": "Gambir 2",
+      "to": "Cempaka Timur",
+      "weight": 20
+    },
+    {
+      "from": "Gambir 2",
+      "to": "RS Islam",
+      "weight": 2
+    },
+    {
+      "from": "Garuda Taman Mini",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "Garuda Taman Mini",
+      "to": "Pinang Ranti",
+      "weight": 26
+    },
+    {
+      "from": "Garuda Taman Mini",
+      "to": "RS Harapan Kita Arah Utara",
+      "weight": 19
+    },
+    {
+      "from": "Garuda Taman Mini",
+      "to": "Tegal Parang Arah Barat",
+      "weight": 19
+    },
+    {
+      "from": "Gatot Subroto Jamsostek Arah Barat",
+      "to": "Jembatan Dua",
+      "weight": 1
+    },
+    {
+      "from": "Gatot Subroto Jamsostek Arah Barat",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 21
+    },
+    {
+      "from": "Gatot Subroto Jamsostek Arah Timur",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Gatot Subroto Jamsostek Arah Timur",
+      "to": "Pancoran Barat Arah Timur",
+      "weight": 20
+    },
+    {
+      "from": "Gelanggang Remaja",
+      "to": "BNN LRT",
+      "weight": 1
+    },
+    {
+      "from": "Gelanggang Remaja",
+      "to": "Bidara Cina",
+      "weight": 78
+    },
+    {
+      "from": "Gelanggang Remaja",
+      "to": "PGC 1",
+      "weight": 20
+    },
+    {
+      "from": "Gelanggang Remaja",
+      "to": "Pasar Kramat Jati",
+      "weight": 1
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Bank Indonesia Arah Utara",
+      "weight": 7
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Bundaran HI",
+      "weight": 18
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Bundaran Senayan",
+      "weight": 15
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Glodok",
+      "weight": 1
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Harmoni Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Kali Besar Barat",
+      "weight": 1
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "Kejaksaan Agung",
+      "weight": 19
+    },
+    {
+      "from": "Gelora Bung Karno",
+      "to": "MH Thamrin",
+      "weight": 1
+    },
+    {
+      "from": "Gg. L Utan Panjang Timur",
+      "to": "Term. Senen",
+      "weight": 18
+    },
+    {
+      "from": "Glodok",
+      "to": "Kali Besar Barat",
+      "weight": 6
+    },
+    {
+      "from": "Grogol 1",
+      "to": "Indosiar",
+      "weight": 2
+    },
+    {
+      "from": "Grogol 1",
+      "to": "MH Thamrin",
+      "weight": 2
+    },
+    {
+      "from": "Grogol 1",
+      "to": "Petojo",
+      "weight": 20
+    },
+    {
+      "from": "Grogol 1",
+      "to": "RS Sumber Waras",
+      "weight": 22
+    },
+    {
+      "from": "Grogol 1",
+      "to": "Sumur Bor",
+      "weight": 7
+    },
+    {
+      "from": "Grogol 2 Arah Selatan",
+      "to": "Cawang Ciliwung Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Grogol 2 Arah Selatan",
+      "to": "Juanda",
+      "weight": 1
+    },
+    {
+      "from": "Grogol 2 Arah Selatan",
+      "to": "Pecenongan",
+      "weight": 1
+    },
+    {
+      "from": "Grogol 2 Arah Selatan",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 2
+    },
+    {
+      "from": "Grogol 2 Arah Selatan",
+      "to": "Tomang Mandala",
+      "weight": 1
+    },
+    {
+      "from": "Grogol 2 Arah Utara",
+      "to": "Jembatan Besi",
+      "weight": 1
+    },
+    {
+      "from": "Grogol 2 Arah Utara",
+      "to": "Pluit",
+      "weight": 1
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Danau Agung",
+      "weight": 1
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Jembatan Merah",
+      "weight": 1
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Mangga Dua",
+      "weight": 2
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Pademangan",
+      "weight": 20
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Pal Putih",
+      "weight": 19
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Pluit",
+      "weight": 1
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 21
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Salemba UI",
+      "weight": 6
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Sunter Boulevard Barat",
+      "weight": 7
+    },
+    {
+      "from": "Gunung Sahari Mangga Dua",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Halimun",
+      "to": "Dukuh Atas 2",
+      "weight": 76
+    },
+    {
+      "from": "Halimun",
+      "to": "GOR Sumantri",
+      "weight": 6
+    },
+    {
+      "from": "Halimun",
+      "to": "Manggarai",
+      "weight": 20
+    },
+    {
+      "from": "Halimun",
+      "to": "Matraman 2",
+      "weight": 19
+    },
+    {
+      "from": "Halimun",
+      "to": "Pemuda Rawamangun",
+      "weight": 7
+    },
+    {
+      "from": "Halimun",
+      "to": "Pramuka BPKP",
+      "weight": 1
+    },
+    {
+      "from": "Halimun",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "Halimun",
+      "to": "Sunan Giri",
+      "weight": 1
+    },
+    {
+      "from": "Harmoni Arah Selatan",
+      "to": "Bendungan Hilir",
+      "weight": 1
+    },
+    {
+      "from": "Harmoni Arah Selatan",
+      "to": "Bundaran Senayan",
+      "weight": 1
+    },
+    {
+      "from": "Harmoni Arah Utara",
+      "to": "Mangga Besar Arah Utara",
+      "weight": 2
+    },
+    {
+      "from": "Honda Letjen Suprapto",
+      "to": "Sekolah Penabur Gunung Sahari",
+      "weight": 21
+    },
+    {
+      "from": "Imigrasi",
+      "to": "SMK 57",
+      "weight": 1
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Buaran",
+      "weight": 19
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Cipinang",
+      "weight": 20
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Kampung Sumur",
+      "weight": 17
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Matraman Baru",
+      "weight": 1
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Pasar Enjo",
+      "weight": 1
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Penggilingan",
+      "weight": 19
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Perumnas Klender",
+      "weight": 1
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Pulo Gebang",
+      "weight": 17
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Slamet Riyadi",
+      "weight": 17
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "St. Jatinegara 2",
+      "weight": 1
+    },
+    {
+      "from": "Imigrasi Jakarta Timur",
+      "to": "Stasiun Klender",
+      "weight": 19
+    },
+    {
+      "from": "Indosiar",
+      "to": "Bundaran HI",
+      "weight": 1
+    },
+    {
+      "from": "Indosiar",
+      "to": "Dispenda Samsat Barat",
+      "weight": 1
+    },
+    {
+      "from": "Indosiar",
+      "to": "Grogol 1",
+      "weight": 19
+    },
+    {
+      "from": "Indosiar",
+      "to": "Jelambar",
+      "weight": 18
+    },
+    {
+      "from": "Indosiar",
+      "to": "Jembatan Baru",
+      "weight": 19
+    },
+    {
+      "from": "Indosiar",
+      "to": "Jembatan Gantung",
+      "weight": 19
+    },
+    {
+      "from": "Indosiar",
+      "to": "Kebayoran Lama Bungur",
+      "weight": 1
+    },
+    {
+      "from": "Indosiar",
+      "to": "Kebon Jeruk",
+      "weight": 1
+    },
+    {
+      "from": "Indosiar",
+      "to": "Kedoya Assiddiqiyah",
+      "weight": 17
+    },
+    {
+      "from": "Indosiar",
+      "to": "Kedoya Green Garden",
+      "weight": 1
+    },
+    {
+      "from": "Indosiar",
+      "to": "Pesakih",
+      "weight": 1
+    },
+    {
+      "from": "Indosiar",
+      "to": "Petojo",
+      "weight": 19
+    },
+    {
+      "from": "Indosiar",
+      "to": "RS Sumber Waras",
+      "weight": 19
+    },
+    {
+      "from": "Indosiar",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 35
+    },
+    {
+      "from": "Indosiar",
+      "to": "Taman Kota",
+      "weight": 19
+    },
+    {
+      "from": "Istiqlal",
+      "to": "Juanda",
+      "weight": 2
+    },
+    {
+      "from": "Istiqlal",
+      "to": "Monas",
+      "weight": 1
+    },
+    {
+      "from": "Istiqlal",
+      "to": "Pecenongan",
+      "weight": 19
+    },
+    {
+      "from": "JIS",
+      "to": "Gg. L Utan Panjang Timur",
+      "weight": 1
+    },
+    {
+      "from": "JIS",
+      "to": "Jln. Dadap",
+      "weight": 1
+    },
+    {
+      "from": "JIS",
+      "to": "Sekolah Penabur Gunung Sahari",
+      "weight": 1
+    },
+    {
+      "from": "JORR",
+      "to": "Adam Malik",
+      "weight": 1
+    },
+    {
+      "from": "JORR",
+      "to": "CBD Ciledug",
+      "weight": 1
+    },
+    {
+      "from": "JORR",
+      "to": "Mayestik",
+      "weight": 20
+    },
+    {
+      "from": "JORR",
+      "to": "Puri Beta 2",
+      "weight": 5
+    },
+    {
+      "from": "JORR",
+      "to": "Seskoal",
+      "weight": 1
+    },
+    {
+      "from": "JORR",
+      "to": "Swadarma",
+      "weight": 18
+    },
+    {
+      "from": "JORR",
+      "to": "Tirtayasa",
+      "weight": 18
+    },
+    {
+      "from": "JORR",
+      "to": "Velbak",
+      "weight": 19
+    },
+    {
+      "from": "Jati Padang",
+      "to": "Buncit Indah",
+      "weight": 1
+    },
+    {
+      "from": "Jati Padang",
+      "to": "Departemen Pertanian",
+      "weight": 19
+    },
+    {
+      "from": "Jati Padang",
+      "to": "Latuharhary",
+      "weight": 6
+    },
+    {
+      "from": "Jati Padang",
+      "to": "SMK 57",
+      "weight": 1
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "BNN Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "BNN LRT",
+      "weight": 1
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "Flyover Raya Bogor",
+      "weight": 1
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "Matraman 1",
+      "weight": 2
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "PGC 1",
+      "weight": 1
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "Pasar Induk Kramat Jati",
+      "weight": 18
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "Pasar Kramat Jati",
+      "weight": 20
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "Slamet Riyadi",
+      "weight": 1
+    },
+    {
+      "from": "Jatinegara RS Premier",
+      "to": "Tegalan",
+      "weight": 1
+    },
+    {
+      "from": "Jelambar",
+      "to": "Jembatan Baru",
+      "weight": 19
+    },
+    {
+      "from": "Jelambar",
+      "to": "Juanda",
+      "weight": 7
+    },
+    {
+      "from": "Jelambar",
+      "to": "Kalideres",
+      "weight": 15
+    },
+    {
+      "from": "Jelambar",
+      "to": "Kebon Jeruk",
+      "weight": 1
+    },
+    {
+      "from": "Jelambar",
+      "to": "Kedoya Assiddiqiyah",
+      "weight": 1
+    },
+    {
+      "from": "Jelambar",
+      "to": "Kelapa Dua Sasak",
+      "weight": 1
+    },
+    {
+      "from": "Jelambar",
+      "to": "MH Thamrin",
+      "weight": 2
+    },
+    {
+      "from": "Jelambar",
+      "to": "Pasar Baru",
+      "weight": 1
+    },
+    {
+      "from": "Jelambar",
+      "to": "Pesakih",
+      "weight": 37
+    },
+    {
+      "from": "Jelambar",
+      "to": "RS Sumber Waras",
+      "weight": 7
+    },
+    {
+      "from": "Jelambar",
+      "to": "Rawa Buaya",
+      "weight": 1
+    },
+    {
+      "from": "Jelambar",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Baru",
+      "to": "Dispenda Samsat Barat",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Baru",
+      "to": "Grogol 1",
+      "weight": 17
+    },
+    {
+      "from": "Jembatan Baru",
+      "to": "MH Thamrin",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Baru",
+      "to": "Pesakih",
+      "weight": 2
+    },
+    {
+      "from": "Jembatan Baru",
+      "to": "Rawa Buaya",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Besi",
+      "to": "Cikoko Stasiun Cawang Arah Timur",
+      "weight": 7
+    },
+    {
+      "from": "Jembatan Besi",
+      "to": "Jembatan Dua",
+      "weight": 16
+    },
+    {
+      "from": "Jembatan Dua",
+      "to": "Garuda Taman Mini",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Dua",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Gantung",
+      "to": "Bundaran HI",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Gantung",
+      "to": "Pesakih",
+      "weight": 7
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Ancol",
+      "weight": 20
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Pademangan",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Pangeran Jayakarta",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Pasar Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Permai Koja Arah Utara",
+      "weight": 6
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Sunter Karya",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Merah",
+      "to": "Tegalan",
+      "weight": 1
+    },
+    {
+      "from": "Jembatan Tiga Arah Selatan",
+      "to": "Slipi Kemanggisan Arah Selatan",
+      "weight": 6
+    },
+    {
+      "from": "Jln. Angkasa Bundaran Kemayoran",
+      "to": "JIS",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Dadap",
+      "to": "Danau Agung 1",
+      "weight": 18
+    },
+    {
+      "from": "Jln. Dadap",
+      "to": "Polsek Kemayoran",
+      "weight": 1
+    },
+    {
+      "from": "Jln. H. Ung",
+      "to": "Atrium 1",
+      "weight": 1
+    },
+    {
+      "from": "Jln. H. Ung",
+      "to": "Jln. Sukamulya III Harapan Mulya",
+      "weight": 20
+    },
+    {
+      "from": "Jln. H. Ung",
+      "to": "SMPN 78",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Kali Baru Timur VII",
+      "to": "Simpang Danau Sunter Utara Barat",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Kali Baru Timur VII",
+      "to": "Sunter Muara 1",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Kwitang Timur",
+      "to": "Jln. Kali Baru Timur VII",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Kwitang Timur",
+      "to": "Kemayoran Landas Pacu Timur 2",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Kwitang Timur",
+      "to": "Utan Panjang",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Puma Bundaran Kemayoran",
+      "to": "Honda Letjen Suprapto",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Puma Bundaran Kemayoran",
+      "to": "Jln. H. Ung",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Puma Bundaran Kemayoran",
+      "to": "Jln. Sukamulya III Harapan Mulya",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Puma Bundaran Kemayoran",
+      "to": "Wahidin 1",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Sukamulya III Harapan Mulya",
+      "to": "RSPAD 3",
+      "weight": 1
+    },
+    {
+      "from": "Jln. Sukamulya III Harapan Mulya",
+      "to": "Wahidin 1",
+      "weight": 1
+    },
+    {
+      "from": "Juanda",
+      "to": "Kebon Jeruk",
+      "weight": 7
+    },
+    {
+      "from": "Juanda",
+      "to": "Monas",
+      "weight": 17
+    },
+    {
+      "from": "Juanda",
+      "to": "Pasar Baru",
+      "weight": 82
+    },
+    {
+      "from": "Juanda",
+      "to": "Pecenongan",
+      "weight": 7
+    },
+    {
+      "from": "Juanda",
+      "to": "Pondok Indah 1",
+      "weight": 18
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Bandengan Selatan",
+      "weight": 59
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Bundaran HI",
+      "weight": 19
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Karet Sudirman",
+      "weight": 7
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Masjid Agung",
+      "weight": 1
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Museum Fatahillah",
+      "weight": 19
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Penjaringan",
+      "weight": 27
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Pluit",
+      "weight": 8
+    },
+    {
+      "from": "Kali Besar Barat",
+      "to": "Polda Metro Jaya",
+      "weight": 1
+    },
+    {
+      "from": "Kalideres",
+      "to": "Indosiar",
+      "weight": 19
+    },
+    {
+      "from": "Kalideres",
+      "to": "Rawa Buaya",
+      "weight": 1
+    },
+    {
+      "from": "Kampung Rambutan",
+      "to": "BKN",
+      "weight": 1
+    },
+    {
+      "from": "Kampung Rambutan",
+      "to": "BNN Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Kampung Rambutan",
+      "to": "BNN LRT",
+      "weight": 1
+    },
+    {
+      "from": "Kampung Rambutan",
+      "to": "PGC 1",
+      "weight": 19
+    },
+    {
+      "from": "Kampung Rambutan",
+      "to": "RS Harapan Bunda",
+      "weight": 18
+    },
+    {
+      "from": "Kampung Rambutan",
+      "to": "Tanah Merdeka Arah Barat",
+      "weight": 20
+    },
+    {
+      "from": "Kampung Sumur",
+      "to": "Flyover Radin Inten",
+      "weight": 18
+    },
+    {
+      "from": "Kampung Sumur",
+      "to": "Jatinegara RS Premier",
+      "weight": 1
+    },
+    {
+      "from": "Kampung Sumur",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Kampung Sumur",
+      "to": "Stasiun Klender",
+      "weight": 20
+    },
+    {
+      "from": "Kampung Sumur",
+      "to": "Walikota Jakarta Timur",
+      "weight": 1
+    },
+    {
+      "from": "Karet Kuningan",
+      "to": "Departemen Kesehatan",
+      "weight": 1
+    },
+    {
+      "from": "Karet Kuningan",
+      "to": "Departemen Pertanian",
+      "weight": 1
+    },
+    {
+      "from": "Karet Kuningan",
+      "to": "Dukuh Atas 2",
+      "weight": 1
+    },
+    {
+      "from": "Karet Kuningan",
+      "to": "Kuningan Madya",
+      "weight": 26
+    },
+    {
+      "from": "Karet Sudirman",
+      "to": "Bendungan Hilir",
+      "weight": 19
+    },
+    {
+      "from": "Karet Sudirman",
+      "to": "Dukuh Atas",
+      "weight": 17
+    },
+    {
+      "from": "Kayu Putih Rawasari",
+      "to": "Pedati Prumpung",
+      "weight": 1
+    },
+    {
+      "from": "Kayu Putih Rawasari",
+      "to": "Pulo Mas Bypass",
+      "weight": 1
+    },
+    {
+      "from": "Kayu Putih Rawasari",
+      "to": "Sunter Kelapa Gading Arah Utara",
+      "weight": 7
+    },
+    {
+      "from": "Kayu Putih Rawasari",
+      "to": "Yos Sudarso Kodamar",
+      "weight": 1
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "Adam Malik",
+      "weight": 7
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "Cipulir",
+      "weight": 20
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "JORR",
+      "weight": 1
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "Mayestik",
+      "weight": 25
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "Puri Beta 2",
+      "weight": 1
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "Swadarma",
+      "weight": 20
+    },
+    {
+      "from": "Kebayoran Lama",
+      "to": "Velbak",
+      "weight": 21
+    },
+    {
+      "from": "Kebayoran Lama Bungur",
+      "to": "Pasar Baru",
+      "weight": 17
+    },
+    {
+      "from": "Kebayoran Lama Bungur",
+      "to": "Permata Hijau",
+      "weight": 1
+    },
+    {
+      "from": "Kebayoran Lama Bungur",
+      "to": "Pondok Indah 2",
+      "weight": 20
+    },
+    {
+      "from": "Kebayoran Lama Bungur",
+      "to": "Tanah Kusir Kodim",
+      "weight": 20
+    },
+    {
+      "from": "Kebon Jeruk",
+      "to": "Juanda",
+      "weight": 17
+    },
+    {
+      "from": "Kebon Jeruk",
+      "to": "Kelapa Dua Sasak",
+      "weight": 18
+    },
+    {
+      "from": "Kebon Jeruk",
+      "to": "Petojo",
+      "weight": 2
+    },
+    {
+      "from": "Kebon Jeruk",
+      "to": "Pondok Indah 1",
+      "weight": 1
+    },
+    {
+      "from": "Kedoya Assiddiqiyah",
+      "to": "Pasar Baru",
+      "weight": 1
+    },
+    {
+      "from": "Kedoya Assiddiqiyah",
+      "to": "Pecenongan",
+      "weight": 7
+    },
+    {
+      "from": "Kedoya Assiddiqiyah",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 17
+    },
+    {
+      "from": "Kedoya Green Garden",
+      "to": "Jelambar",
+      "weight": 2
+    },
+    {
+      "from": "Kedoya Green Garden",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Kejaksaan Agung",
+      "to": "Blok M",
+      "weight": 4
+    },
+    {
+      "from": "Kelapa Dua Sasak",
+      "to": "Grogol 2 Arah Selatan",
+      "weight": 18
+    },
+    {
+      "from": "Kelapa Dua Sasak",
+      "to": "Lebak Bulus",
+      "weight": 20
+    },
+    {
+      "from": "Kelapa Dua Sasak",
+      "to": "Permata Hijau RS Medika",
+      "weight": 1
+    },
+    {
+      "from": "Kelapa Dua Sasak",
+      "to": "Petojo",
+      "weight": 20
+    },
+    {
+      "from": "Kelapa Dua Sasak",
+      "to": "Simprug",
+      "weight": 38
+    },
+    {
+      "from": "Kelapa Dua Sasak",
+      "to": "Tanah Kusir Kodim",
+      "weight": 6
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur",
+      "to": "Danau Agung",
+      "weight": 1
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur",
+      "to": "Jembatan Merah",
+      "weight": 2
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur",
+      "to": "Pangeran Jayakarta",
+      "weight": 8
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur",
+      "to": "Permai Koja Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur",
+      "to": "Pluit",
+      "weight": 1
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur",
+      "to": "SMP 140",
+      "weight": 1
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur 1",
+      "to": "Jln. H. Ung",
+      "weight": 7
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur 1",
+      "to": "Wahidin 1",
+      "weight": 19
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur 2",
+      "to": "JIS",
+      "weight": 1
+    },
+    {
+      "from": "Kemayoran Landas Pacu Timur 2",
+      "to": "Simpang Danau Sunter Utara Barat",
+      "weight": 18
+    },
+    {
+      "from": "Kota",
+      "to": "Enggano",
+      "weight": 1
+    },
+    {
+      "from": "Kota",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 1
+    },
+    {
+      "from": "Kota",
+      "to": "Karet Sudirman",
+      "weight": 1
+    },
+    {
+      "from": "Kota",
+      "to": "Permai Koja Arah Utara",
+      "weight": 6
+    },
+    {
+      "from": "Kota",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Ancol",
+      "weight": 20
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Budi Utomo",
+      "weight": 1
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 20
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Matraman Baru",
+      "weight": 19
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Pasar Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Slamet Riyadi",
+      "weight": 2
+    },
+    {
+      "from": "Kramat Sentiong",
+      "to": "Tegalan",
+      "weight": 1
+    },
+    {
+      "from": "Kuningan Barat",
+      "to": "BNN Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Kuningan Barat",
+      "to": "BNN LRT",
+      "weight": 1
+    },
+    {
+      "from": "Kuningan Barat",
+      "to": "RS Harapan Kita Arah Utara",
+      "weight": 17
+    },
+    {
+      "from": "Kuningan Barat",
+      "to": "Semanggi",
+      "weight": 4
+    },
+    {
+      "from": "Kuningan Barat",
+      "to": "Slipi Petamburan Arah Utara",
+      "weight": 18
+    },
+    {
+      "from": "Kuningan Madya",
+      "to": "Duren Tiga",
+      "weight": 20
+    },
+    {
+      "from": "Kuningan Madya",
+      "to": "Halimun",
+      "weight": 1
+    },
+    {
+      "from": "Kuningan Madya",
+      "to": "Latuharhary",
+      "weight": 1
+    },
+    {
+      "from": "Kuningan Madya",
+      "to": "SMK 57",
+      "weight": 1
+    },
+    {
+      "from": "Kuningan Madya",
+      "to": "Setiabudi Utara",
+      "weight": 6
+    },
+    {
+      "from": "Kuningan Timur",
+      "to": "Departemen Pertanian",
+      "weight": 18
+    },
+    {
+      "from": "Kuningan Timur",
+      "to": "Duren Tiga",
+      "weight": 6
+    },
+    {
+      "from": "Kuningan Timur",
+      "to": "Imigrasi",
+      "weight": 7
+    },
+    {
+      "from": "Kuningan Timur",
+      "to": "Latuharhary",
+      "weight": 1
+    },
+    {
+      "from": "Kwitang",
+      "to": "Galur",
+      "weight": 1
+    },
+    {
+      "from": "Landmark Pluit Auto Plaza",
+      "to": "Enggano",
+      "weight": 1
+    },
+    {
+      "from": "Landmark Pluit Auto Plaza",
+      "to": "Pakin",
+      "weight": 1
+    },
+    {
+      "from": "Landmark Pluit Auto Plaza",
+      "to": "Pangeran Jayakarta",
+      "weight": 1
+    },
+    {
+      "from": "Landmark Pluit Auto Plaza",
+      "to": "Sunter Karya",
+      "weight": 1
+    },
+    {
+      "from": "Landmark Pluit Auto Plaza",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Latuharhary",
+      "to": "Dukuh Atas 2",
+      "weight": 19
+    },
+    {
+      "from": "Latumeten Stasiun Grogol Arah Selatan",
+      "to": "BNN Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Latumeten Stasiun Grogol Arah Selatan",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Layur",
+      "to": "Halimun",
+      "weight": 1
+    },
+    {
+      "from": "Layur",
+      "to": "Pasar Rumput",
+      "weight": 1
+    },
+    {
+      "from": "Layur",
+      "to": "Pramuka LIA",
+      "weight": 1
+    },
+    {
+      "from": "Layur",
+      "to": "Pulo Gadung 2",
+      "weight": 27
+    },
+    {
+      "from": "Layur",
+      "to": "Sunan Giri",
+      "weight": 18
+    },
+    {
+      "from": "Layur",
+      "to": "Velodrome",
+      "weight": 1
+    },
+    {
+      "from": "Lebak Bulus",
+      "to": "Pondok Pinang",
+      "weight": 20
+    },
+    {
+      "from": "Lebak Bulus",
+      "to": "Tanah Kusir Kodim",
+      "weight": 1
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Bank Indonesia Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Blok M",
+      "weight": 18
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Bundaran HI",
+      "weight": 56
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Harmoni Arah Utara",
+      "weight": 2
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Jelambar",
+      "weight": 1
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Jembatan Baru",
+      "weight": 19
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Mangga Besar Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "Polda Metro Jaya",
+      "weight": 1
+    },
+    {
+      "from": "MH Thamrin",
+      "to": "RS Sumber Waras",
+      "weight": 1
+    },
+    {
+      "from": "Mampang Prapatan",
+      "to": "Departemen Kesehatan",
+      "weight": 19
+    },
+    {
+      "from": "Mampang Prapatan",
+      "to": "Departemen Pertanian",
+      "weight": 1
+    },
+    {
+      "from": "Mampang Prapatan",
+      "to": "Kuningan Timur",
+      "weight": 36
+    },
+    {
+      "from": "Mangga Besar Arah Selatan",
+      "to": "Bank Indonesia Arah Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Mangga Besar Arah Utara",
+      "to": "Glodok",
+      "weight": 20
+    },
+    {
+      "from": "Mangga Besar Arah Utara",
+      "to": "Kali Besar Barat",
+      "weight": 9
+    },
+    {
+      "from": "Mangga Besar Arah Utara",
+      "to": "Olimo",
+      "weight": 21
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Bandengan Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Jembatan Merah",
+      "weight": 19
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Pangeran Jayakarta",
+      "weight": 6
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Penjaringan",
+      "weight": 37
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Permai Koja Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Sunter Boulevard Barat",
+      "weight": 1
+    },
+    {
+      "from": "Mangga Dua",
+      "to": "Sunter Karya",
+      "weight": 7
+    },
+    {
+      "from": "Manggarai",
+      "to": "Matraman 2",
+      "weight": 6
+    },
+    {
+      "from": "Masjid Agung",
+      "to": "Bendungan Hilir",
+      "weight": 17
+    },
+    {
+      "from": "Masjid Agung",
+      "to": "Blok M",
+      "weight": 19
+    },
+    {
+      "from": "Masjid Agung",
+      "to": "Dukuh Atas",
+      "weight": 20
+    },
+    {
+      "from": "Masjid Agung",
+      "to": "Kejaksaan Agung",
+      "weight": 21
+    },
+    {
+      "from": "Masjid Al Huda Kemayoran",
+      "to": "Jln. Angkasa Bundaran Kemayoran",
+      "weight": 7
+    },
+    {
+      "from": "Masjid Al Huda Kemayoran",
+      "to": "Kemayoran Landas Pacu Timur 2",
+      "weight": 1
+    },
+    {
+      "from": "Masjid Al Huda Kemayoran",
+      "to": "Simpang Danau Sunter Utara Barat",
+      "weight": 1
+    },
+    {
+      "from": "Masjid Al Huda Kemayoran",
+      "to": "Sunter Icon",
+      "weight": 18
+    },
+    {
+      "from": "Masjid Al Huda Kemayoran",
+      "to": "Sunter Muara 1",
+      "weight": 1
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Ancol",
+      "weight": 27
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Budi Utomo",
+      "weight": 21
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Kramat Sentiong",
+      "weight": 18
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Matraman Baru",
+      "weight": 18
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Pasar Jatinegara",
+      "weight": 20
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Senen Sentral",
+      "weight": 20
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Slamet Riyadi",
+      "weight": 7
+    },
+    {
+      "from": "Matraman 1",
+      "to": "Tegalan",
+      "weight": 17
+    },
+    {
+      "from": "Matraman 2",
+      "to": "Dukuh Atas 2",
+      "weight": 7
+    },
+    {
+      "from": "Matraman 2",
+      "to": "Halimun",
+      "weight": 38
+    },
+    {
+      "from": "Matraman 2",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "Matraman 2",
+      "to": "TU Gas",
+      "weight": 18
+    },
+    {
+      "from": "Matraman 2",
+      "to": "Utan Kayu",
+      "weight": 1
+    },
+    {
+      "from": "Matraman Baru",
+      "to": "Matraman 1",
+      "weight": 19
+    },
+    {
+      "from": "Matraman Baru",
+      "to": "Pademangan",
+      "weight": 1
+    },
+    {
+      "from": "Matraman Baru",
+      "to": "Pasar Jatinegara",
+      "weight": 22
+    },
+    {
+      "from": "Matraman Baru",
+      "to": "Salemba Carolus",
+      "weight": 7
+    },
+    {
+      "from": "Matraman Baru",
+      "to": "Slamet Riyadi",
+      "weight": 38
+    },
+    {
+      "from": "Matraman Baru",
+      "to": "Tegalan",
+      "weight": 19
+    },
+    {
+      "from": "Mayestik",
+      "to": "Adam Malik",
+      "weight": 19
+    },
+    {
+      "from": "Mayestik",
+      "to": "CBD Ciledug",
+      "weight": 7
+    },
+    {
+      "from": "Mayestik",
+      "to": "Tendean",
+      "weight": 19
+    },
+    {
+      "from": "Mayestik",
+      "to": "Tirtayasa",
+      "weight": 1
+    },
+    {
+      "from": "Monas",
+      "to": "Cempaka Timur",
+      "weight": 19
+    },
+    {
+      "from": "Monas",
+      "to": "Gambir 2",
+      "weight": 1
+    },
+    {
+      "from": "Monas",
+      "to": "Glodok",
+      "weight": 1
+    },
+    {
+      "from": "Monas",
+      "to": "Harmoni Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Monas",
+      "to": "Kwitang",
+      "weight": 19
+    },
+    {
+      "from": "Monas",
+      "to": "Polda Metro Jaya",
+      "weight": 6
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Bundaran Senayan",
+      "weight": 7
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 1
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Harmoni Arah Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Kemayoran Landas Pacu Timur",
+      "weight": 17
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Kota",
+      "weight": 2
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Monas",
+      "weight": 1
+    },
+    {
+      "from": "Museum Fatahillah",
+      "to": "Polda Metro Jaya",
+      "weight": 1
+    },
+    {
+      "from": "Olimo",
+      "to": "Kali Besar Barat",
+      "weight": 25
+    },
+    {
+      "from": "Olimo",
+      "to": "Kejaksaan Agung",
+      "weight": 1
+    },
+    {
+      "from": "Olimo",
+      "to": "MH Thamrin",
+      "weight": 1
+    },
+    {
+      "from": "Olimo",
+      "to": "Monas",
+      "weight": 20
+    },
+    {
+      "from": "PGC 1",
+      "to": "Bidara Cina",
+      "weight": 1
+    },
+    {
+      "from": "PGC 1",
+      "to": "Flyover Raya Bogor",
+      "weight": 19
+    },
+    {
+      "from": "PGC 1",
+      "to": "Kampung Rambutan",
+      "weight": 2
+    },
+    {
+      "from": "PGC 2",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Pademangan",
+      "to": "Ancol",
+      "weight": 48
+    },
+    {
+      "from": "Pademangan",
+      "to": "Budi Utomo",
+      "weight": 1
+    },
+    {
+      "from": "Pademangan",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 20
+    },
+    {
+      "from": "Pademangan",
+      "to": "Jembatan Merah",
+      "weight": 1
+    },
+    {
+      "from": "Pademangan",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Pademangan",
+      "to": "Pasar Baru Timur",
+      "weight": 8
+    },
+    {
+      "from": "Pademangan",
+      "to": "Pasar Jatinegara",
+      "weight": 19
+    },
+    {
+      "from": "Pademangan",
+      "to": "Salemba Carolus",
+      "weight": 1
+    },
+    {
+      "from": "Pakin",
+      "to": "Danau Agung",
+      "weight": 1
+    },
+    {
+      "from": "Pakin",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 20
+    },
+    {
+      "from": "Pakin",
+      "to": "Sunter Boulevard Barat",
+      "weight": 1
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Ancol",
+      "weight": 19
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Budi Utomo",
+      "weight": 19
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Matraman Baru",
+      "weight": 1
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Pademangan",
+      "weight": 1
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Pasar Baru Timur",
+      "weight": 20
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Pasar Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Salemba UI",
+      "weight": 20
+    },
+    {
+      "from": "Pal Putih",
+      "to": "Senen Sentral",
+      "weight": 20
+    },
+    {
+      "from": "Pancoran Barat Arah Barat",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "Pancoran Barat Arah Timur",
+      "to": "BNN Arah Timur",
+      "weight": 20
+    },
+    {
+      "from": "Pancoran Barat Arah Timur",
+      "to": "Cawang Ciliwung Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Pancoran Barat Arah Timur",
+      "to": "Garuda Taman Mini",
+      "weight": 1
+    },
+    {
+      "from": "Pancoran Barat Arah Timur",
+      "to": "Pancoran Tugu Arah Timur",
+      "weight": 20
+    },
+    {
+      "from": "Pancoran Tugu Arah Barat",
+      "to": "Pluit",
+      "weight": 1
+    },
+    {
+      "from": "Pancoran Tugu Arah Barat",
+      "to": "Senayan JCC Arah Barat",
+      "weight": 20
+    },
+    {
+      "from": "Pancoran Tugu Arah Timur",
+      "to": "Pinang Ranti",
+      "weight": 19
+    },
+    {
+      "from": "Pancoran Tugu Arah Timur",
+      "to": "Tebet Eco Park II Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Pangeran Jayakarta",
+      "to": "Bandengan Selatan",
+      "weight": 21
+    },
+    {
+      "from": "Pangeran Jayakarta",
+      "to": "Enggano",
+      "weight": 1
+    },
+    {
+      "from": "Pangeran Jayakarta",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 16
+    },
+    {
+      "from": "Pangeran Jayakarta",
+      "to": "Penjaringan",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Baru",
+      "to": "Duri Kepa",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Baru",
+      "to": "Pondok Indah 2",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Budi Utomo",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Kramat Sentiong",
+      "weight": 5
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Pademangan",
+      "weight": 38
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Pal Putih",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Salemba Carolus",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Baru Timur",
+      "to": "Tegalan",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Cempaka Putih",
+      "to": "Cempaka Tengah",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Cempaka Putih",
+      "to": "Cempaka Timur",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Cempaka Putih",
+      "to": "Deplu",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Cempaka Putih",
+      "to": "Istiqlal",
+      "weight": 22
+    },
+    {
+      "from": "Pasar Cempaka Putih",
+      "to": "Pedongkelan",
+      "weight": 21
+    },
+    {
+      "from": "Pasar Enjo",
+      "to": "Flyover Jatinegara",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Enjo",
+      "to": "Flyover Radin Inten",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Enjo",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Enjo",
+      "to": "Perumnas Klender",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Enjo",
+      "to": "Walikota Jakarta Timur",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "Dukuh Atas 2",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "Matraman 2",
+      "weight": 18
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "Pasar Pulo Gadung",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "Pramuka BPKP",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "TU Gas",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Genjing",
+      "to": "UNJ",
+      "weight": 2
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "BKN",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "BNN Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "Cawang UKI",
+      "weight": 2
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "Flyover Raya Bogor",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "Kampung Rambutan",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "RS Harapan Bunda",
+      "weight": 2
+    },
+    {
+      "from": "Pasar Induk Kramat Jati",
+      "to": "Tanah Merdeka Arah Timur",
+      "weight": 38
+    },
+    {
+      "from": "Pasar Jatinegara",
+      "to": "BNN Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Jatinegara",
+      "to": "BNN LRT",
+      "weight": 19
+    },
+    {
+      "from": "Pasar Jatinegara",
+      "to": "Gelanggang Remaja",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Kebayoran Lama",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Kebayoran Lama",
+      "to": "Tanah Kusir Kodim",
+      "weight": 19
+    },
+    {
+      "from": "Pasar Kebayoran Lama",
+      "to": "Tomang Mandala",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "BKN",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "Cawang Otista",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "Cawang UKI",
+      "weight": 18
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "Flyover Raya Bogor",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "Gelanggang Remaja",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "PGC 1",
+      "weight": 20
+    },
+    {
+      "from": "Pasar Kramat Jati",
+      "to": "RS Harapan Bunda",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Pulo Gadung",
+      "to": "Dukuh Atas 2",
+      "weight": 1
+    },
+    {
+      "from": "Pasar Pulo Gadung",
+      "to": "Pulo Gadung 2",
+      "weight": 25
+    },
+    {
+      "from": "Pasar Pulo Gadung",
+      "to": "TU Gas",
+      "weight": 19
+    },
+    {
+      "from": "Pasar Rumput",
+      "to": "Bermis",
+      "weight": 18
+    },
+    {
+      "from": "Pasar Rumput",
+      "to": "Dukuh Atas 2",
+      "weight": 8
+    },
+    {
+      "from": "Pasar Rumput",
+      "to": "Halimun",
+      "weight": 37
+    },
+    {
+      "from": "Pasar Rumput",
+      "to": "Pulo Gadung 2",
+      "weight": 20
+    },
+    {
+      "from": "Patra Kuningan",
+      "to": "Duren Tiga",
+      "weight": 7
+    },
+    {
+      "from": "Patra Kuningan",
+      "to": "Latuharhary",
+      "weight": 1
+    },
+    {
+      "from": "Patra Kuningan",
+      "to": "Ragunan",
+      "weight": 1
+    },
+    {
+      "from": "Pecenongan",
+      "to": "Jelambar",
+      "weight": 20
+    },
+    {
+      "from": "Pecenongan",
+      "to": "Juanda",
+      "weight": 39
+    },
+    {
+      "from": "Pecenongan",
+      "to": "Kebon Jeruk",
+      "weight": 7
+    },
+    {
+      "from": "Pecenongan",
+      "to": "Monas",
+      "weight": 19
+    },
+    {
+      "from": "Pecenongan",
+      "to": "Pasar Baru",
+      "weight": 20
+    },
+    {
+      "from": "Pecenongan",
+      "to": "Pos Pengumben",
+      "weight": 1
+    },
+    {
+      "from": "Pedati Prumpung",
+      "to": "Cawang Soetoyo",
+      "weight": 1
+    },
+    {
+      "from": "Pedati Prumpung",
+      "to": "Kayu Putih Rawasari",
+      "weight": 19
+    },
+    {
+      "from": "Pedati Prumpung",
+      "to": "PGC 2",
+      "weight": 20
+    },
+    {
+      "from": "Pedongkelan",
+      "to": "ASMI",
+      "weight": 8
+    },
+    {
+      "from": "Pedongkelan",
+      "to": "Cempaka Timur",
+      "weight": 1
+    },
+    {
+      "from": "Pedongkelan",
+      "to": "Istiqlal",
+      "weight": 1
+    },
+    {
+      "from": "Pejaten",
+      "to": "Departemen Pertanian",
+      "weight": 6
+    },
+    {
+      "from": "Pejaten",
+      "to": "GOR Sumantri",
+      "weight": 1
+    },
+    {
+      "from": "Pejaten",
+      "to": "Ragunan",
+      "weight": 18
+    },
+    {
+      "from": "Pejaten",
+      "to": "SMK 57",
+      "weight": 1
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Ahmad Yani Bea Cukai",
+      "weight": 5
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Cawang Soetoyo",
+      "weight": 1
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Cempaka Mas",
+      "weight": 21
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Pedati Prumpung",
+      "weight": 18
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Penas Kalimalang",
+      "weight": 20
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Permai Koja Arah Utara",
+      "weight": 5
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 2
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Pulo Mas Bypass",
+      "weight": 18
+    },
+    {
+      "from": "Pemuda Pramuka",
+      "to": "Tanjung Priok",
+      "weight": 7
+    },
+    {
+      "from": "Pemuda Rawamangun",
+      "to": "Halimun",
+      "weight": 7
+    },
+    {
+      "from": "Pemuda Rawamangun",
+      "to": "Layur",
+      "weight": 20
+    },
+    {
+      "from": "Pemuda Rawamangun",
+      "to": "Pasar Pulo Gadung",
+      "weight": 2
+    },
+    {
+      "from": "Pemuda Rawamangun",
+      "to": "Pramuka BPKP",
+      "weight": 7
+    },
+    {
+      "from": "Pemuda Rawamangun",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "Pemuda Rawamangun",
+      "to": "TU Gas",
+      "weight": 21
+    },
+    {
+      "from": "Penas Kalimalang",
+      "to": "BKN",
+      "weight": 39
+    },
+    {
+      "from": "Penas Kalimalang",
+      "to": "Cawang Soetoyo",
+      "weight": 1
+    },
+    {
+      "from": "Penas Kalimalang",
+      "to": "Cawang UKI",
+      "weight": 19
+    },
+    {
+      "from": "Penas Kalimalang",
+      "to": "Kayu Putih Rawasari",
+      "weight": 1
+    },
+    {
+      "from": "Penas Kalimalang",
+      "to": "PGC 2",
+      "weight": 19
+    },
+    {
+      "from": "Penas Kalimalang",
+      "to": "Yos Sudarso Kodamar",
+      "weight": 6
+    },
+    {
+      "from": "Pengadilan Negeri Jakut",
+      "to": "Wahidin 1",
+      "weight": 7
+    },
+    {
+      "from": "Penggilingan",
+      "to": "Flyover Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Penggilingan",
+      "to": "Jatinegara RS Premier",
+      "weight": 20
+    },
+    {
+      "from": "Penggilingan",
+      "to": "Perumnas Klender",
+      "weight": 1
+    },
+    {
+      "from": "Penggilingan",
+      "to": "Pulo Gebang",
+      "weight": 40
+    },
+    {
+      "from": "Penggilingan",
+      "to": "Stasiun Klender",
+      "weight": 1
+    },
+    {
+      "from": "Penjaringan",
+      "to": "Pluit",
+      "weight": 39
+    },
+    {
+      "from": "Penjaringan",
+      "to": "Semanggi",
+      "weight": 1
+    },
+    {
+      "from": "Permai Koja Arah Selatan",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 7
+    },
+    {
+      "from": "Permai Koja Arah Utara",
+      "to": "Enggano",
+      "weight": 57
+    },
+    {
+      "from": "Permai Koja Arah Utara",
+      "to": "Tanjung Priok",
+      "weight": 25
+    },
+    {
+      "from": "Permata Hijau",
+      "to": "Simprug",
+      "weight": 1
+    },
+    {
+      "from": "Permata Hijau RS Medika",
+      "to": "Grogol 2 Arah Selatan",
+      "weight": 19
+    },
+    {
+      "from": "Permata Hijau RS Medika",
+      "to": "Lebak Bulus",
+      "weight": 20
+    },
+    {
+      "from": "Permata Hijau RS Medika",
+      "to": "Pasar Kebayoran Lama",
+      "weight": 19
+    },
+    {
+      "from": "Permata Hijau RS Medika",
+      "to": "Pos Pengumben",
+      "weight": 1
+    },
+    {
+      "from": "Perumnas Klender",
+      "to": "Flyover Klender",
+      "weight": 1
+    },
+    {
+      "from": "Perumnas Klender",
+      "to": "Pulo Gebang",
+      "weight": 3
+    },
+    {
+      "from": "Perumnas Klender",
+      "to": "St. Jatinegara 2",
+      "weight": 1
+    },
+    {
+      "from": "Perumnas Klender",
+      "to": "Stasiun Klender",
+      "weight": 1
+    },
+    {
+      "from": "Perumnas Klender",
+      "to": "Walikota Jakarta Timur",
+      "weight": 21
+    },
+    {
+      "from": "Pesakih",
+      "to": "Kalideres",
+      "weight": 1
+    },
+    {
+      "from": "Pesakih",
+      "to": "RS Sumber Waras",
+      "weight": 1
+    },
+    {
+      "from": "Pesakih",
+      "to": "Sumur Bor",
+      "weight": 7
+    },
+    {
+      "from": "Pesakih",
+      "to": "Taman Kota",
+      "weight": 19
+    },
+    {
+      "from": "Petojo",
+      "to": "Bundaran HI",
+      "weight": 1
+    },
+    {
+      "from": "Petojo",
+      "to": "Dispenda Samsat Barat",
+      "weight": 1
+    },
+    {
+      "from": "Petojo",
+      "to": "Jembatan Gantung",
+      "weight": 1
+    },
+    {
+      "from": "Petojo",
+      "to": "Juanda",
+      "weight": 20
+    },
+    {
+      "from": "Petojo",
+      "to": "MH Thamrin",
+      "weight": 3
+    },
+    {
+      "from": "Petojo",
+      "to": "Pasar Kebayoran Lama",
+      "weight": 20
+    },
+    {
+      "from": "Petojo",
+      "to": "Pos Pengumben",
+      "weight": 19
+    },
+    {
+      "from": "Petojo",
+      "to": "Tanah Kusir Kodim",
+      "weight": 20
+    },
+    {
+      "from": "Petojo",
+      "to": "Tomang Mandala",
+      "weight": 1
+    },
+    {
+      "from": "Pinang Ranti",
+      "to": "Garuda Taman Mini",
+      "weight": 7
+    },
+    {
+      "from": "Pinang Ranti",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Pluit",
+      "to": "Pakin",
+      "weight": 1
+    },
+    {
+      "from": "Plumpang Pertamina Arah Selatan",
+      "to": "Cawang UKI",
+      "weight": 2
+    },
+    {
+      "from": "Plumpang Pertamina Arah Selatan",
+      "to": "Sunter Kelapa Gading Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Plumpang Pertamina Arah Selatan",
+      "to": "Yos Sudarso Kodamar",
+      "weight": 1
+    },
+    {
+      "from": "Plumpang Pertamina Arah Utara",
+      "to": "Enggano",
+      "weight": 18
+    },
+    {
+      "from": "Plumpang Pertamina Arah Utara",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Plumpang Pertamina Arah Utara",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 22
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Bank Indonesia Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Blok M",
+      "weight": 19
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Bundaran Senayan",
+      "weight": 2
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Gelora Bung Karno",
+      "weight": 20
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Glodok",
+      "weight": 1
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Kali Besar Barat",
+      "weight": 1
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Mangga Besar Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Polda Metro Jaya",
+      "to": "Tosari",
+      "weight": 1
+    },
+    {
+      "from": "Polres Metro Jakpus",
+      "to": "JIS",
+      "weight": 38
+    },
+    {
+      "from": "Polres Metro Jakpus",
+      "to": "Jln. Angkasa Bundaran Kemayoran",
+      "weight": 1
+    },
+    {
+      "from": "Polres Metro Jakpus",
+      "to": "Kemayoran Landas Pacu Timur 2",
+      "weight": 1
+    },
+    {
+      "from": "Polres Metro Jakpus",
+      "to": "Sunter Icon",
+      "weight": 2
+    },
+    {
+      "from": "Polsek Kemayoran",
+      "to": "RSPAD 3",
+      "weight": 1
+    },
+    {
+      "from": "Polsek Kemayoran",
+      "to": "Sekolah Penabur Gunung Sahari",
+      "weight": 1
+    },
+    {
+      "from": "Pondok Indah 1",
+      "to": "Kelapa Dua Sasak",
+      "weight": 20
+    },
+    {
+      "from": "Pondok Indah 1",
+      "to": "Lebak Bulus",
+      "weight": 2
+    },
+    {
+      "from": "Pondok Indah 2",
+      "to": "Lebak Bulus",
+      "weight": 8
+    },
+    {
+      "from": "Pondok Indah 2",
+      "to": "Pondok Indah 1",
+      "weight": 1
+    },
+    {
+      "from": "Pos Pengumben",
+      "to": "Permata Hijau",
+      "weight": 17
+    },
+    {
+      "from": "Pos Pengumben",
+      "to": "RS Tarakan",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "Halimun",
+      "weight": 27
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "Matraman 2",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "Pasar Genjing",
+      "weight": 19
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "Pemuda Rawamangun",
+      "weight": 21
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "TU Gas",
+      "weight": 16
+    },
+    {
+      "from": "Pramuka BPKP",
+      "to": "Utan Kayu",
+      "weight": 20
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Dukuh Atas 2",
+      "weight": 7
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Halimun",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Layur",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Manggarai",
+      "weight": 18
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Matraman 2",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Pasar Genjing",
+      "weight": 3
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Pasar Pulo Gadung",
+      "weight": 18
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Pemuda Rawamangun",
+      "weight": 1
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Pramuka BPKP",
+      "weight": 19
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Sunan Giri",
+      "weight": 19
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Utan Kayu",
+      "weight": 2
+    },
+    {
+      "from": "Pramuka LIA",
+      "to": "Velodrome",
+      "weight": 20
+    },
+    {
+      "from": "Pulo Gadung 1",
+      "to": "Atrium",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gadung 1",
+      "to": "Cempaka Tengah",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gadung 1",
+      "to": "Rawa Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gadung 2",
+      "to": "Matraman 2",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Cipinang",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Flyover Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Jatinegara RS Premier",
+      "weight": 20
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Kampung Sumur",
+      "weight": 18
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Matraman Baru",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Perumnas Klender",
+      "weight": 19
+    },
+    {
+      "from": "Pulo Gebang",
+      "to": "Walikota Jakarta Timur",
+      "weight": 20
+    },
+    {
+      "from": "Pulo Mas",
+      "to": "Bermis",
+      "weight": 8
+    },
+    {
+      "from": "Pulo Mas",
+      "to": "Gambir 1",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Mas",
+      "to": "Istiqlal",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Mas",
+      "to": "Pulo Gadung 1",
+      "weight": 19
+    },
+    {
+      "from": "Pulo Mas Bypass",
+      "to": "Cempaka Putih",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Mas Bypass",
+      "to": "Pemuda Pramuka",
+      "weight": 1
+    },
+    {
+      "from": "Pulo Mas Bypass",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Puri Beta 1",
+      "to": "Adam Malik",
+      "weight": 17
+    },
+    {
+      "from": "Puri Beta 1",
+      "to": "JORR",
+      "weight": 2
+    },
+    {
+      "from": "Puri Beta 1",
+      "to": "Kebayoran Lama",
+      "weight": 6
+    },
+    {
+      "from": "Puri Beta 1",
+      "to": "Tendean",
+      "weight": 18
+    },
+    {
+      "from": "Puri Beta 1",
+      "to": "Tirtayasa",
+      "weight": 2
+    },
+    {
+      "from": "Puri Beta 1",
+      "to": "Velbak",
+      "weight": 1
+    },
+    {
+      "from": "Puri Beta 2",
+      "to": "CBD Ciledug",
+      "weight": 47
+    },
+    {
+      "from": "Puskesmas Sunter Agung I",
+      "to": "Danau Agung 1",
+      "weight": 1
+    },
+    {
+      "from": "Puskesmas Sunter Agung I",
+      "to": "Jln. Sukamulya III Harapan Mulya",
+      "weight": 18
+    },
+    {
+      "from": "RS Harapan Bunda",
+      "to": "Flyover Raya Bogor",
+      "weight": 20
+    },
+    {
+      "from": "RS Harapan Bunda",
+      "to": "Kampung Rambutan",
+      "weight": 20
+    },
+    {
+      "from": "RS Harapan Bunda",
+      "to": "Tanah Merdeka Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "RS Harapan Kita Arah Selatan",
+      "to": "Gatot Subroto Jamsostek Arah Timur",
+      "weight": 7
+    },
+    {
+      "from": "RS Harapan Kita Arah Selatan",
+      "to": "Senayan JCC Arah Timur",
+      "weight": 7
+    },
+    {
+      "from": "RS Harapan Kita Arah Utara",
+      "to": "Grogol 2 Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "RS Harapan Kita Arah Utara",
+      "to": "Jembatan Besi",
+      "weight": 7
+    },
+    {
+      "from": "RS Harapan Kita Arah Utara",
+      "to": "Latumeten Stasiun Grogol Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "RS Harapan Kita Arah Utara",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "RS Harapan Kita Arah Utara",
+      "to": "Pluit",
+      "weight": 20
+    },
+    {
+      "from": "RS Harapan Kita Arah Utara",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "RS Islam",
+      "to": "Pedongkelan",
+      "weight": 1
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "Bundaran HI",
+      "weight": 7
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "Dispenda Samsat Barat",
+      "weight": 1
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "Grogol 1",
+      "weight": 6
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "Jembatan Baru",
+      "weight": 1
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "Kalideres",
+      "weight": 1
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "MH Thamrin",
+      "weight": 2
+    },
+    {
+      "from": "RS Sumber Waras",
+      "to": "Petojo",
+      "weight": 2
+    },
+    {
+      "from": "RS Tarakan",
+      "to": "Duri Kepa",
+      "weight": 19
+    },
+    {
+      "from": "RS Tarakan",
+      "to": "Pasar Baru",
+      "weight": 20
+    },
+    {
+      "from": "RS Tarakan",
+      "to": "Pecenongan",
+      "weight": 1
+    },
+    {
+      "from": "RS Tarakan",
+      "to": "Permata Hijau",
+      "weight": 19
+    },
+    {
+      "from": "RS Tarakan",
+      "to": "Petojo",
+      "weight": 1
+    },
+    {
+      "from": "RS Tarakan",
+      "to": "Pondok Indah 1",
+      "weight": 1
+    },
+    {
+      "from": "RSPAD 3",
+      "to": "Sekolah Penabur Gunung Sahari",
+      "weight": 6
+    },
+    {
+      "from": "RSPAD 3",
+      "to": "Term. Senen",
+      "weight": 23
+    },
+    {
+      "from": "RSPAD 3",
+      "to": "Wahidin 1",
+      "weight": 1
+    },
+    {
+      "from": "Ragunan",
+      "to": "Pejaten",
+      "weight": 1
+    },
+    {
+      "from": "Ragunan",
+      "to": "Warung Jati",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Barat",
+      "to": "Adam Malik",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Barat",
+      "to": "Seskoal",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Barat",
+      "to": "Swadarma",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Barat",
+      "to": "Tendean",
+      "weight": 42
+    },
+    {
+      "from": "Rawa Buaya",
+      "to": "Grogol 1",
+      "weight": 19
+    },
+    {
+      "from": "Rawa Buaya",
+      "to": "MH Thamrin",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Buaya",
+      "to": "Pesakih",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Buaya",
+      "to": "Sumur Bor",
+      "weight": 2
+    },
+    {
+      "from": "Rawa Selatan",
+      "to": "ASMI",
+      "weight": 19
+    },
+    {
+      "from": "Rawa Selatan",
+      "to": "Atrium",
+      "weight": 18
+    },
+    {
+      "from": "Rawa Selatan",
+      "to": "Deplu",
+      "weight": 1
+    },
+    {
+      "from": "Rawa Selatan",
+      "to": "Galur",
+      "weight": 19
+    },
+    {
+      "from": "Rawa Selatan",
+      "to": "Pulo Gadung 1",
+      "weight": 3
+    },
+    {
+      "from": "Rawa Selatan",
+      "to": "Senen",
+      "weight": 1
+    },
+    {
+      "from": "S Parman Podomoro City Arah Barat",
+      "to": "Jelambar",
+      "weight": 1
+    },
+    {
+      "from": "S Parman Podomoro City Arah Barat",
+      "to": "Jembatan Tiga Arah Utara",
+      "weight": 7
+    },
+    {
+      "from": "S Parman Podomoro City Arah Timur",
+      "to": "BNN Arah Timur",
+      "weight": 20
+    },
+    {
+      "from": "S Parman Podomoro City Arah Timur",
+      "to": "Pancoran Tugu Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "S Parman Podomoro City Arah Timur",
+      "to": "Tomang Mandala",
+      "weight": 1
+    },
+    {
+      "from": "SMK 57",
+      "to": "Departemen Kesehatan",
+      "weight": 19
+    },
+    {
+      "from": "SMK 57",
+      "to": "Departemen Pertanian",
+      "weight": 19
+    },
+    {
+      "from": "SMK 57",
+      "to": "Dukuh Atas 2",
+      "weight": 17
+    },
+    {
+      "from": "SMK 57",
+      "to": "Kuningan Madya",
+      "weight": 2
+    },
+    {
+      "from": "SMK 57",
+      "to": "Patra Kuningan",
+      "weight": 1
+    },
+    {
+      "from": "SMP 140",
+      "to": "Kemayoran Landas Pacu Timur",
+      "weight": 1
+    },
+    {
+      "from": "SMP 140",
+      "to": "Pangeran Jayakarta",
+      "weight": 1
+    },
+    {
+      "from": "SMP 140",
+      "to": "Pluit",
+      "weight": 7
+    },
+    {
+      "from": "SMP 140",
+      "to": "Tanjung Priok",
+      "weight": 18
+    },
+    {
+      "from": "SMPN 78",
+      "to": "Atrium 1",
+      "weight": 1
+    },
+    {
+      "from": "SMPN 78",
+      "to": "RSPAD 3",
+      "weight": 6
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Ancol",
+      "weight": 1
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Kramat Sentiong",
+      "weight": 40
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Matraman 1",
+      "weight": 19
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Matraman Baru",
+      "weight": 16
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Pasar Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Senen Sentral",
+      "weight": 20
+    },
+    {
+      "from": "Salemba Carolus",
+      "to": "Tegalan",
+      "weight": 2
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Ancol",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Budi Utomo",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Kramat Sentiong",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Pal Putih",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Pasar Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Salemba Carolus",
+      "weight": 38
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Senen Sentral",
+      "weight": 1
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Slamet Riyadi",
+      "weight": 20
+    },
+    {
+      "from": "Salemba UI",
+      "to": "Tegalan",
+      "weight": 19
+    },
+    {
+      "from": "Sawah Besar Arah Selatan",
+      "to": "Bundaran Senayan",
+      "weight": 20
+    },
+    {
+      "from": "Sawah Besar Arah Selatan",
+      "to": "Polda Metro Jaya",
+      "weight": 18
+    },
+    {
+      "from": "Sawah Besar Arah Utara",
+      "to": "Glodok",
+      "weight": 1
+    },
+    {
+      "from": "Sawah Besar Arah Utara",
+      "to": "Olimo",
+      "weight": 21
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "Gg. L Utan Panjang Timur",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "Honda Letjen Suprapto",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "Jln. Puma Bundaran Kemayoran",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "Jln. Sukamulya III Harapan Mulya",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "Polsek Kemayoran",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "SMPN 78",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Item",
+      "to": "Sbr. Sunter Icon",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Sukamulya III",
+      "to": "Masjid Al Huda Kemayoran",
+      "weight": 19
+    },
+    {
+      "from": "Sbr. Jembatan Sukamulya III",
+      "to": "Sunter Icon",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Jembatan Sukamulya III",
+      "to": "Sunter Muara 1",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Sunter Icon",
+      "to": "Danau Agung 1",
+      "weight": 1
+    },
+    {
+      "from": "Sbr. Sunter Icon",
+      "to": "Honda Letjen Suprapto",
+      "weight": 21
+    },
+    {
+      "from": "Sbr. Sunter Icon",
+      "to": "Sekolah Penabur Gunung Sahari",
+      "weight": 7
+    },
+    {
+      "from": "Sekolah Penabur Gunung Sahari",
+      "to": "Term. Senen",
+      "weight": 36
+    },
+    {
+      "from": "Semanggi",
+      "to": "Cawang Ciliwung Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Semanggi",
+      "to": "Cawang UKI",
+      "weight": 22
+    },
+    {
+      "from": "Semanggi",
+      "to": "Penjaringan",
+      "weight": 1
+    },
+    {
+      "from": "Semanggi",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 19
+    },
+    {
+      "from": "Senayan JCC Arah Barat",
+      "to": "Jembatan Dua",
+      "weight": 7
+    },
+    {
+      "from": "Senayan JCC Arah Timur",
+      "to": "Pancoran Tugu Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Senen",
+      "to": "Deplu",
+      "weight": 18
+    },
+    {
+      "from": "Senen",
+      "to": "Istiqlal",
+      "weight": 1
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Budi Utomo",
+      "weight": 26
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Gunung Sahari Mangga Dua",
+      "weight": 1
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Jembatan Merah",
+      "weight": 1
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Pademangan",
+      "weight": 2
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Pal Putih",
+      "weight": 1
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Pasar Baru Timur",
+      "weight": 19
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Salemba Carolus",
+      "weight": 1
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Slamet Riyadi",
+      "weight": 1
+    },
+    {
+      "from": "Senen Sentral",
+      "to": "Tegalan",
+      "weight": 17
+    },
+    {
+      "from": "Seskoal",
+      "to": "Adam Malik",
+      "weight": 1
+    },
+    {
+      "from": "Seskoal",
+      "to": "CBD Ciledug",
+      "weight": 1
+    },
+    {
+      "from": "Seskoal",
+      "to": "Cipulir",
+      "weight": 1
+    },
+    {
+      "from": "Seskoal",
+      "to": "JORR",
+      "weight": 6
+    },
+    {
+      "from": "Seskoal",
+      "to": "Puri Beta 2",
+      "weight": 41
+    },
+    {
+      "from": "Seskoal",
+      "to": "Swadarma",
+      "weight": 38
+    },
+    {
+      "from": "Seskoal",
+      "to": "Tirtayasa",
+      "weight": 44
+    },
+    {
+      "from": "Setiabudi Utara",
+      "to": "Departemen Kesehatan",
+      "weight": 6
+    },
+    {
+      "from": "Setiabudi Utara",
+      "to": "Dukuh Atas 2",
+      "weight": 2
+    },
+    {
+      "from": "Setiabudi Utara",
+      "to": "Latuharhary",
+      "weight": 1
+    },
+    {
+      "from": "Simpang Danau Sunter Barat Utara",
+      "to": "Atrium 1",
+      "weight": 1
+    },
+    {
+      "from": "Simpang Danau Sunter Barat Utara",
+      "to": "RSPAD 3",
+      "weight": 18
+    },
+    {
+      "from": "Simpang Danau Sunter Barat Utara",
+      "to": "Wahidin 1",
+      "weight": 1
+    },
+    {
+      "from": "Simpang Danau Sunter Utara Barat",
+      "to": "Jembatan Item",
+      "weight": 20
+    },
+    {
+      "from": "Simpang Danau Sunter Utara Barat",
+      "to": "Sunter Icon",
+      "weight": 3
+    },
+    {
+      "from": "Simprug",
+      "to": "Lebak Bulus",
+      "weight": 20
+    },
+    {
+      "from": "Simprug",
+      "to": "Pecenongan",
+      "weight": 2
+    },
+    {
+      "from": "Simprug",
+      "to": "Pondok Indah 1",
+      "weight": 1
+    },
+    {
+      "from": "Simprug",
+      "to": "S Parman Podomoro City Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Slamet Riyadi",
+      "to": "Budi Utomo",
+      "weight": 1
+    },
+    {
+      "from": "Slamet Riyadi",
+      "to": "Matraman Baru",
+      "weight": 40
+    },
+    {
+      "from": "Slamet Riyadi",
+      "to": "Pademangan",
+      "weight": 18
+    },
+    {
+      "from": "Slamet Riyadi",
+      "to": "Pasar Baru Timur",
+      "weight": 1
+    },
+    {
+      "from": "Slamet Riyadi",
+      "to": "Pasar Jatinegara",
+      "weight": 2
+    },
+    {
+      "from": "Slamet Riyadi",
+      "to": "Tegalan",
+      "weight": 1
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Selatan",
+      "to": "BNN Arah Timur",
+      "weight": 7
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Selatan",
+      "to": "Cawang UKI",
+      "weight": 20
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Selatan",
+      "to": "Pinang Ranti",
+      "weight": 1
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Selatan",
+      "to": "Senayan JCC Arah Timur",
+      "weight": 1
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Utara",
+      "to": "Pluit",
+      "weight": 21
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Utara",
+      "to": "RS Harapan Kita Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Slipi Kemanggisan Arah Utara",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 2
+    },
+    {
+      "from": "Slipi Petamburan Arah Selatan",
+      "to": "Cawang UKI",
+      "weight": 20
+    },
+    {
+      "from": "St. Jatinegara 2",
+      "to": "Flyover Jatinegara",
+      "weight": 20
+    },
+    {
+      "from": "St. Jatinegara 2",
+      "to": "Imigrasi Jakarta Timur",
+      "weight": 1
+    },
+    {
+      "from": "St. Jatinegara 2",
+      "to": "Jatinegara RS Premier",
+      "weight": 21
+    },
+    {
+      "from": "St. Jatinegara 2",
+      "to": "Matraman Baru",
+      "weight": 1
+    },
+    {
+      "from": "St. Jatinegara 2",
+      "to": "Penggilingan",
+      "weight": 1
+    },
+    {
+      "from": "St. Jatinegara 2",
+      "to": "Slamet Riyadi",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Selatan",
+      "to": "PGC 2",
+      "weight": 20
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Cempaka Putih",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Kayu Putih Rawasari",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Permai Koja Arah Utara",
+      "weight": 15
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Pulo Mas Bypass",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Sunter Kelapa Gading Arah Utara",
+      "weight": 6
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Tanjung Priok",
+      "weight": 18
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Utan Kayu Rawamangun",
+      "weight": 7
+    },
+    {
+      "from": "Stasiun Jatinegara Arah Utara",
+      "to": "Yos Sudarso Kodamar",
+      "weight": 17
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Cipinang",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Flyover Radin Inten",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Matraman 1",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Penggilingan",
+      "weight": 17
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Perumnas Klender",
+      "weight": 35
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Pulo Gebang",
+      "weight": 18
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "St. Jatinegara 2",
+      "weight": 1
+    },
+    {
+      "from": "Stasiun Klender",
+      "to": "Tegalan",
+      "weight": 20
+    },
+    {
+      "from": "Sumur Bor",
+      "to": "Bundaran HI",
+      "weight": 1
+    },
+    {
+      "from": "Sumur Bor",
+      "to": "Indosiar",
+      "weight": 1
+    },
+    {
+      "from": "Sumur Bor",
+      "to": "Kalideres",
+      "weight": 1
+    },
+    {
+      "from": "Sumur Bor",
+      "to": "Pesakih",
+      "weight": 1
+    },
+    {
+      "from": "Sumur Bor",
+      "to": "Rawa Buaya",
+      "weight": 1
+    },
+    {
+      "from": "Sunan Giri",
+      "to": "Layur",
+      "weight": 20
+    },
+    {
+      "from": "Sunan Giri",
+      "to": "Matraman 2",
+      "weight": 19
+    },
+    {
+      "from": "Sunan Giri",
+      "to": "Pasar Genjing",
+      "weight": 1
+    },
+    {
+      "from": "Sunan Giri",
+      "to": "Pasar Rumput",
+      "weight": 17
+    },
+    {
+      "from": "Sunan Giri",
+      "to": "Pulo Gadung 2",
+      "weight": 7
+    },
+    {
+      "from": "Sunan Giri",
+      "to": "Velodrome",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Boulevard Barat",
+      "to": "Danau Agung",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Boulevard Barat",
+      "to": "Enggano",
+      "weight": 20
+    },
+    {
+      "from": "Sunter Boulevard Barat",
+      "to": "SMP 140",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Boulevard Barat",
+      "to": "Sunter Kelapa Gading Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Boulevard Barat",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Icon",
+      "to": "JIS",
+      "weight": 21
+    },
+    {
+      "from": "Sunter Icon",
+      "to": "Jembatan Item",
+      "weight": 2
+    },
+    {
+      "from": "Sunter Karya",
+      "to": "Bandengan Selatan",
+      "weight": 19
+    },
+    {
+      "from": "Sunter Karya",
+      "to": "Mangga Dua",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Karya",
+      "to": "SMP 140",
+      "weight": 2
+    },
+    {
+      "from": "Sunter Karya",
+      "to": "Tanjung Priok",
+      "weight": 18
+    },
+    {
+      "from": "Sunter Karya",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 6
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Selatan",
+      "to": "Ahmad Yani Bea Cukai",
+      "weight": 7
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Selatan",
+      "to": "Cawang Soetoyo",
+      "weight": 27
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Selatan",
+      "to": "Cempaka Mas",
+      "weight": 7
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Utara",
+      "to": "Enggano",
+      "weight": 3
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Utara",
+      "to": "Permai Koja Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Utara",
+      "to": "Tanjung Priok",
+      "weight": 7
+    },
+    {
+      "from": "Sunter Kelapa Gading Arah Utara",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Sunter Muara 1",
+      "to": "JIS",
+      "weight": 18
+    },
+    {
+      "from": "Sunter Muara 1",
+      "to": "Jembatan Item",
+      "weight": 7
+    },
+    {
+      "from": "Sunter Muara 1",
+      "to": "Simpang Danau Sunter Utara Barat",
+      "weight": 2
+    },
+    {
+      "from": "Sunter Muara 1",
+      "to": "Sunter Icon",
+      "weight": 21
+    },
+    {
+      "from": "Swadarma",
+      "to": "Adam Malik",
+      "weight": 8
+    },
+    {
+      "from": "Swadarma",
+      "to": "Mayestik",
+      "weight": 20
+    },
+    {
+      "from": "Swadarma",
+      "to": "Rawa Barat",
+      "weight": 19
+    },
+    {
+      "from": "Swadarma",
+      "to": "Seskoal",
+      "weight": 1
+    },
+    {
+      "from": "Swadarma",
+      "to": "Tendean",
+      "weight": 1
+    },
+    {
+      "from": "Swadarma",
+      "to": "Tirtayasa",
+      "weight": 25
+    },
+    {
+      "from": "Swadarma",
+      "to": "Velbak",
+      "weight": 1
+    },
+    {
+      "from": "TU Gas",
+      "to": "Pasar Pulo Gadung",
+      "weight": 20
+    },
+    {
+      "from": "Taman Kota",
+      "to": "Bundaran HI",
+      "weight": 1
+    },
+    {
+      "from": "Taman Kota",
+      "to": "Indosiar",
+      "weight": 18
+    },
+    {
+      "from": "Taman Kota",
+      "to": "Jembatan Gantung",
+      "weight": 20
+    },
+    {
+      "from": "Taman Kota",
+      "to": "Kalideres",
+      "weight": 1
+    },
+    {
+      "from": "Taman Kota",
+      "to": "Pesakih",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Kusir Kodim",
+      "to": "Kedoya Green Garden",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Kusir Kodim",
+      "to": "Lebak Bulus",
+      "weight": 18
+    },
+    {
+      "from": "Tanah Kusir Kodim",
+      "to": "Pondok Indah 1",
+      "weight": 19
+    },
+    {
+      "from": "Tanah Kusir Kodim",
+      "to": "Pondok Indah 2",
+      "weight": 18
+    },
+    {
+      "from": "Tanah Kusir Kodim",
+      "to": "Pos Pengumben",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Kusir Kodim",
+      "to": "Simprug",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Merdeka Arah Barat",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Merdeka Arah Barat",
+      "to": "PGC 1",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Merdeka Arah Barat",
+      "to": "Pasar Kramat Jati",
+      "weight": 1
+    },
+    {
+      "from": "Tanah Merdeka Arah Timur",
+      "to": "Kampung Rambutan",
+      "weight": 49
+    },
+    {
+      "from": "Tanjung Priok",
+      "to": "Cempaka Mas",
+      "weight": 1
+    },
+    {
+      "from": "Tanjung Priok",
+      "to": "Enggano",
+      "weight": 18
+    },
+    {
+      "from": "Tanjung Priok",
+      "to": "Kali Besar Barat",
+      "weight": 18
+    },
+    {
+      "from": "Tanjung Priok",
+      "to": "Kayu Putih Rawasari",
+      "weight": 19
+    },
+    {
+      "from": "Tanjung Priok",
+      "to": "Kemayoran Landas Pacu Timur",
+      "weight": 1
+    },
+    {
+      "from": "Tanjung Priok",
+      "to": "Permai Koja Arah Selatan",
+      "weight": 1
+    },
+    {
+      "from": "Tebet Eco Park II Arah Barat",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Tebet Eco Park II Arah Timur",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Tebet Eco Park II Arah Timur",
+      "to": "Pinang Ranti",
+      "weight": 17
+    },
+    {
+      "from": "Tegal Parang Arah Barat",
+      "to": "Jembatan Besi",
+      "weight": 1
+    },
+    {
+      "from": "Tegal Parang Arah Barat",
+      "to": "Jembatan Tiga Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Tegal Parang Arah Barat",
+      "to": "S Parman Podomoro City Arah Barat",
+      "weight": 1
+    },
+    {
+      "from": "Tegal Parang Arah Barat",
+      "to": "Semanggi",
+      "weight": 17
+    },
+    {
+      "from": "Tegal Parang Arah Barat",
+      "to": "Slipi Petamburan Arah Utara",
+      "weight": 1
+    },
+    {
+      "from": "Tegal Parang Arah Timur",
+      "to": "Cawang Ciliwung Arah Timur",
+      "weight": 17
+    },
+    {
+      "from": "Tegalan",
+      "to": "Ancol",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Budi Utomo",
+      "weight": 20
+    },
+    {
+      "from": "Tegalan",
+      "to": "Cipinang",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Flyover Jatinegara",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Flyover Klender",
+      "weight": 18
+    },
+    {
+      "from": "Tegalan",
+      "to": "Matraman 1",
+      "weight": 62
+    },
+    {
+      "from": "Tegalan",
+      "to": "Matraman Baru",
+      "weight": 3
+    },
+    {
+      "from": "Tegalan",
+      "to": "Pademangan",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Pasar Baru Timur",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Penggilingan",
+      "weight": 2
+    },
+    {
+      "from": "Tegalan",
+      "to": "Pulo Gebang",
+      "weight": 18
+    },
+    {
+      "from": "Tegalan",
+      "to": "Salemba Carolus",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Senen Sentral",
+      "weight": 1
+    },
+    {
+      "from": "Tegalan",
+      "to": "Slamet Riyadi",
+      "weight": 76
+    },
+    {
+      "from": "Tegalan",
+      "to": "Walikota Jakarta Timur",
+      "weight": 19
+    },
+    {
+      "from": "Tendean",
+      "to": "Adam Malik",
+      "weight": 19
+    },
+    {
+      "from": "Tendean",
+      "to": "CBD Ciledug",
+      "weight": 1
+    },
+    {
+      "from": "Tendean",
+      "to": "CSW 1",
+      "weight": 1
+    },
+    {
+      "from": "Tendean",
+      "to": "Mayestik",
+      "weight": 1
+    },
+    {
+      "from": "Tendean",
+      "to": "Puri Beta 2",
+      "weight": 1
+    },
+    {
+      "from": "Tendean",
+      "to": "Velbak",
+      "weight": 16
+    },
+    {
+      "from": "Term. Senen",
+      "to": "Kemayoran Landas Pacu Timur 2",
+      "weight": 1
+    },
+    {
+      "from": "Term. Senen",
+      "to": "Masjid Al Huda Kemayoran",
+      "weight": 18
+    },
+    {
+      "from": "Term. Senen",
+      "to": "Sunter Muara 1",
+      "weight": 19
+    },
+    {
+      "from": "Term. Senen",
+      "to": "Utan Panjang",
+      "weight": 1
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "CSW 1",
+      "weight": 19
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "Cipulir",
+      "weight": 40
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "Kebayoran Lama",
+      "weight": 1
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "Mayestik",
+      "weight": 6
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "Puri Beta 2",
+      "weight": 2
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "Tendean",
+      "weight": 47
+    },
+    {
+      "from": "Tirtayasa",
+      "to": "Velbak",
+      "weight": 1
+    },
+    {
+      "from": "Tomang Mandala",
+      "to": "Duri Kepa",
+      "weight": 17
+    },
+    {
+      "from": "Tomang Mandala",
+      "to": "Kedoya Green Garden",
+      "weight": 1
+    },
+    {
+      "from": "Tomang Mandala",
+      "to": "Pasar Baru",
+      "weight": 21
+    },
+    {
+      "from": "Tomang Mandala",
+      "to": "Pecenongan",
+      "weight": 1
+    },
+    {
+      "from": "Tomang Mandala",
+      "to": "RS Tarakan",
+      "weight": 18
+    },
+    {
+      "from": "Tomang Mandala",
+      "to": "Tanah Kusir Kodim",
+      "weight": 1
+    },
+    {
+      "from": "Tosari",
+      "to": "Blok M",
+      "weight": 19
+    },
+    {
+      "from": "Tosari",
+      "to": "Gelora Bung Karno",
+      "weight": 1
+    },
+    {
+      "from": "Tosari",
+      "to": "Mangga Besar Arah Utara",
+      "weight": 19
+    },
+    {
+      "from": "Tosari",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "UNJ",
+      "to": "Matraman 2",
+      "weight": 2
+    },
+    {
+      "from": "UNJ",
+      "to": "Pasar Pulo Gadung",
+      "weight": 6
+    },
+    {
+      "from": "UNJ",
+      "to": "Pulo Gadung 2",
+      "weight": 1
+    },
+    {
+      "from": "UNJ",
+      "to": "TU Gas",
+      "weight": 18
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Halimun",
+      "weight": 36
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Layur",
+      "weight": 1
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Pasar Rumput",
+      "weight": 9
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Pemuda Rawamangun",
+      "weight": 19
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Pramuka BPKP",
+      "weight": 1
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Sunan Giri",
+      "weight": 6
+    },
+    {
+      "from": "Utan Kayu",
+      "to": "Velodrome",
+      "weight": 1
+    },
+    {
+      "from": "Utan Kayu Rawamangun",
+      "to": "Cipinang Kebon Nanas",
+      "weight": 7
+    },
+    {
+      "from": "Utan Kayu Rawamangun",
+      "to": "Pulo Mas Bypass",
+      "weight": 1
+    },
+    {
+      "from": "Utan Kayu Rawamangun",
+      "to": "Tanjung Priok",
+      "weight": 1
+    },
+    {
+      "from": "Utan Kayu Rawamangun",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 19
+    },
+    {
+      "from": "Utan Panjang",
+      "to": "Jembatan Item",
+      "weight": 1
+    },
+    {
+      "from": "Utan Panjang",
+      "to": "Jln. Angkasa Bundaran Kemayoran",
+      "weight": 7
+    },
+    {
+      "from": "Utan Panjang",
+      "to": "Jln. Kali Baru Timur VII",
+      "weight": 18
+    },
+    {
+      "from": "Utan Panjang",
+      "to": "Polres Metro Jakpus",
+      "weight": 14
+    },
+    {
+      "from": "Utan Panjang",
+      "to": "Simpang Danau Sunter Utara Barat",
+      "weight": 17
+    },
+    {
+      "from": "Utan Panjang",
+      "to": "Sunter Icon",
+      "weight": 1
+    },
+    {
+      "from": "Velbak",
+      "to": "Adam Malik",
+      "weight": 1
+    },
+    {
+      "from": "Velbak",
+      "to": "Cipulir",
+      "weight": 18
+    },
+    {
+      "from": "Velbak",
+      "to": "Kebayoran Lama",
+      "weight": 1
+    },
+    {
+      "from": "Velbak",
+      "to": "Mayestik",
+      "weight": 2
+    },
+    {
+      "from": "Velbak",
+      "to": "Puri Beta 2",
+      "weight": 20
+    },
+    {
+      "from": "Velbak",
+      "to": "Rawa Barat",
+      "weight": 21
+    },
+    {
+      "from": "Velbak",
+      "to": "Tendean",
+      "weight": 7
+    },
+    {
+      "from": "Velbak",
+      "to": "Tirtayasa",
+      "weight": 18
+    },
+    {
+      "from": "Velodrome",
+      "to": "Pasar Pulo Gadung",
+      "weight": 1
+    },
+    {
+      "from": "Velodrome",
+      "to": "Pemuda Rawamangun",
+      "weight": 1
+    },
+    {
+      "from": "Velodrome",
+      "to": "Pulo Gadung 2",
+      "weight": 2
+    },
+    {
+      "from": "Velodrome",
+      "to": "Sunan Giri",
+      "weight": 6
+    },
+    {
+      "from": "Walikota Jakarta Timur",
+      "to": "Pasar Enjo",
+      "weight": 1
+    },
+    {
+      "from": "Walikota Jakarta Timur",
+      "to": "Pulo Gebang",
+      "weight": 20
+    },
+    {
+      "from": "Walikota Jakarta Timur",
+      "to": "St. Jatinegara 2",
+      "weight": 21
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Selatan",
+      "to": "Cawang UKI",
+      "weight": 1
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Selatan",
+      "to": "Mangga Dua",
+      "weight": 20
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Selatan",
+      "to": "Stasiun Jatinegara Arah Selatan",
+      "weight": 18
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Selatan",
+      "to": "Yos Sudarso Kodamar",
+      "weight": 1
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Utara",
+      "to": "Enggano",
+      "weight": 1
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Utara",
+      "to": "Permai Koja Arah Utara",
+      "weight": 19
+    },
+    {
+      "from": "Walikota Jakarta Utara Arah Utara",
+      "to": "Tanjung Priok",
+      "weight": 19
+    },
+    {
+      "from": "Warung Jati",
+      "to": "Buncit Indah",
+      "weight": 17
+    },
+    {
+      "from": "Warung Jati",
+      "to": "Ragunan",
+      "weight": 17
+    },
+    {
+      "from": "Yos Sudarso Kodamar",
+      "to": "Enggano",
+      "weight": 7
+    },
+    {
+      "from": "Yos Sudarso Kodamar",
+      "to": "Penas Kalimalang",
+      "weight": 19
+    },
+    {
+      "from": "Yos Sudarso Kodamar",
+      "to": "Plumpang Pertamina Arah Utara",
+      "weight": 2
+    },
+    {
+      "from": "Yos Sudarso Kodamar",
+      "to": "Tanjung Priok",
+      "weight": 20
+    },
+    {
+      "from": "Yos Sudarso Kodamar",
+      "to": "Walikota Jakarta Utara Arah Utara",
+      "weight": 1
+    }
+  ]
+}

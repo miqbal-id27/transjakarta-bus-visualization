@@ -1,0 +1,6932 @@
+[
+  {
+    "id": "ASEAN",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "ASEAN",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "ASEAN",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "ASMI",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "ASMI",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "ASMI",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "ASMI",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 39
+  },
+  {
+    "id": "Adam Malik",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Adam Malik",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Adam Malik",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Adam Malik",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Ahmad Yani Bea Cukai",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Ahmad Yani Bea Cukai",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Ancol",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Ancol",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Ancol",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Ancol",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 39
+  },
+  {
+    "id": "Atrium",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Atrium",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Atrium",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Atrium 1",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Atrium 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Atrium 1",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Atrium 1",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "BKN",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "BKN",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "BKN",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "BKN",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "BKN",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "BKN",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "BKN",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "BKN",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "BKN",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 36
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "BNN Arah Barat",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "BNN Arah Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "BNN Arah Timur",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "BNN Arah Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 56
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 42
+  },
+  {
+    "id": "BNN LRT",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 27
+  },
+  {
+    "id": "Balai Kota",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Balai Kota",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Balai Kota",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bandengan Selatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Bandengan Selatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Bandengan Selatan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Bank Indonesia Arah Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Bank Indonesia Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Bank Indonesia Arah Utara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bendungan Hilir",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Bendungan Hilir",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Bendungan Hilir",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Bendungan Hilir",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bendungan Hilir",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bermis",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Bermis",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Bermis",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bermis",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bermis",
+    "age_grp": "60–69",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Bermis",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 38
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Bidara Cina",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Blok M",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Blok M",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Buaran",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 41
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 41
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Budi Utomo",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Buncit Indah",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 39
+  },
+  {
+    "id": "Buncit Indah",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 9
+  },
+  {
+    "id": "Buncit Indah",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Buncit Indah",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Bundaran HI",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bundaran HI",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Bundaran HI",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Bundaran HI",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bundaran HI",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Bundaran HI",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Bundaran Senayan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Bundaran Senayan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Bundaran Senayan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Bundaran Senayan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "CBD Ciledug",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "CBD Ciledug",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "CBD Ciledug",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "CSW 1",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cawang Ciliwung Arah Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "Cawang Ciliwung Arah Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Ciliwung Arah Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Cawang Ciliwung Arah Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Ciliwung Arah Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Ciliwung Arah Timur",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Otista",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cawang Soetoyo",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Cawang Soetoyo",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Cawang Soetoyo",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cawang Soetoyo",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 49
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 58
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 41
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 29
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 4
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Cawang UKI",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Mas",
+    "age_grp": "60–69",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Cempaka Putih",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Cempaka Putih",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Tengah",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Cempaka Tengah",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "Cempaka Tengah",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Cempaka Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Cempaka Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cempaka Timur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cikoko Stasiun Cawang Arah Barat",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cikoko Stasiun Cawang Arah Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Cikoko Stasiun Cawang Arah Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cipinang",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cipinang",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Cipinang",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Cipinang",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cipinang",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cipinang Kebon Nanas",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cipinang Kebon Nanas",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 26
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Cipulir",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 27
+  },
+  {
+    "id": "Danau Agung",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Danau Agung",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Danau Agung",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Danau Agung",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Danau Agung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 39
+  },
+  {
+    "id": "Danau Agung",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 26
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Danau Agung 1",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Departemen Kesehatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Departemen Kesehatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Departemen Kesehatan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 14
+  },
+  {
+    "id": "Departemen Kesehatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Departemen Kesehatan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Departemen Pertanian",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Departemen Pertanian",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 37
+  },
+  {
+    "id": "Departemen Pertanian",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Departemen Pertanian",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Departemen Pertanian",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Departemen Pertanian",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Deplu",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Dispenda Samsat Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Dispenda Samsat Barat",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Dispenda Samsat Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Dispenda Samsat Barat",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Dittopad",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Dittopad",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Dittopad",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 25
+  },
+  {
+    "id": "Dittopad",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Dittopad",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Dittopad",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Dukuh Atas",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Dukuh Atas",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "Dukuh Atas",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Dukuh Atas 2",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Dukuh Atas 2",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Dukuh Atas 2",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Duren Tiga",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Duri Kepa",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Duri Kepa",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Duri Kepa",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 24
+  },
+  {
+    "id": "Duri Kepa",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Duri Kepa",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Enggano",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Enggano",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Enggano",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 9
+  },
+  {
+    "id": "Enggano",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Enggano",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Jatinegara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Jatinegara",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Flyover Jatinegara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 3
+  },
+  {
+    "id": "Flyover Jatinegara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Jatinegara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Flyover Jatinegara",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 37
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Flyover Klender",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Flyover Radin Inten",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Flyover Radin Inten",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Flyover Radin Inten",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Radin Inten",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Radin Inten",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Radin Inten",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Flyover Raya Bogor",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "GOR Sumantri",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "GOR Sumantri",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "GOR Sumantri",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "GOR Sumantri",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "GOR Sumantri",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "GOR Sumantri",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Galur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Galur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Galur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Galur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Galur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Galur",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gambir 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Gambir 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Gambir 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Gambir 2",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Gambir 2",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gambir 2",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gambir 2",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Garuda Taman Mini",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Garuda Taman Mini",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Garuda Taman Mini",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Garuda Taman Mini",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Garuda Taman Mini",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Gatot Subroto Jamsostek Arah Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Gatot Subroto Jamsostek Arah Barat",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Gatot Subroto Jamsostek Arah Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gatot Subroto Jamsostek Arah Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Gatot Subroto Jamsostek Arah Timur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gelanggang Remaja",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Gelanggang Remaja",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 41
+  },
+  {
+    "id": "Gelanggang Remaja",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Gelanggang Remaja",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Gelanggang Remaja",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gelora Bung Karno",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Gelora Bung Karno",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 26
+  },
+  {
+    "id": "Gelora Bung Karno",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gelora Bung Karno",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Gg. L Utan Panjang Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Glodok",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 28
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Grogol 1",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 2 Arah Selatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 2 Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 4
+  },
+  {
+    "id": "Grogol 2 Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Grogol 2 Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Gunung Sahari Mangga Dua",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 78
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 9
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Halimun",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Harmoni Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Harmoni Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Harmoni Arah Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Honda Letjen Suprapto",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Honda Letjen Suprapto",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Imigrasi",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Imigrasi Jakarta Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Imigrasi Jakarta Timur",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 78
+  },
+  {
+    "id": "Imigrasi Jakarta Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Imigrasi Jakarta Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Imigrasi Jakarta Timur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Imigrasi Jakarta Timur",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 60
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 41
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Indosiar",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Istiqlal",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Istiqlal",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Istiqlal",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "JIS",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "JIS",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "JIS",
+    "age_grp": "60–69",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "JORR",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "JORR",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "JORR",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "JORR",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "JORR",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 38
+  },
+  {
+    "id": "Jati Padang",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Jati Padang",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Jati Padang",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jati Padang",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jatinegara RS Premier",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 47
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 3
+  },
+  {
+    "id": "Jelambar",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Jembatan Baru",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Baru",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Baru",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Baru",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Jembatan Baru",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Besi",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Jembatan Besi",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Jembatan Dua",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Dua",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Gantung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Gantung",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Jembatan Item",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Merah",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "Jembatan Merah",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Jembatan Merah",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Jembatan Merah",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jembatan Merah",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Jembatan Tiga Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Jln. Angkasa Bundaran Kemayoran",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Dadap",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Dadap",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Jln. H. Ung",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Jln. H. Ung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Kali Baru Timur VII",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Kali Baru Timur VII",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Kwitang Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Kwitang Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Kwitang Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Puma Bundaran Kemayoran",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Puma Bundaran Kemayoran",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Puma Bundaran Kemayoran",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Puma Bundaran Kemayoran",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Sukamulya III Harapan Mulya",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Jln. Sukamulya III Harapan Mulya",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Juanda",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Juanda",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Juanda",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Juanda",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Juanda",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 50
+  },
+  {
+    "id": "Juanda",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 41
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Kali Besar Barat",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Kalideres",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Kalideres",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kampung Rambutan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kampung Rambutan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Kampung Rambutan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Kampung Rambutan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Kampung Sumur",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kampung Sumur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Kampung Sumur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Kampung Sumur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Kampung Sumur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Karet Kuningan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Karet Kuningan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Karet Kuningan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Karet Kuningan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Karet Sudirman",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Karet Sudirman",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Karet Sudirman",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Kayu Putih Rawasari",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "Kayu Putih Rawasari",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kayu Putih Rawasari",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kebayoran Lama",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "Kebayoran Lama",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Kebayoran Lama",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 60
+  },
+  {
+    "id": "Kebayoran Lama",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kebayoran Lama",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 10
+  },
+  {
+    "id": "Kebayoran Lama Bungur",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Kebayoran Lama Bungur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Kebayoran Lama Bungur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Kebon Jeruk",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kebon Jeruk",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Kebon Jeruk",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kebon Jeruk",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kebon Jeruk",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Kedoya Assiddiqiyah",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 25
+  },
+  {
+    "id": "Kedoya Assiddiqiyah",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kedoya Green Garden",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kedoya Green Garden",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kedoya Green Garden",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kejaksaan Agung",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kejaksaan Agung",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kejaksaan Agung",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Kejaksaan Agung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kelapa Dua Sasak",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 26
+  },
+  {
+    "id": "Kelapa Dua Sasak",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Kelapa Dua Sasak",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Kelapa Dua Sasak",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur 1",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur 1",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur 2",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Kemayoran Landas Pacu Timur 2",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kota",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kota",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kota",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kota",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Kota",
+    "age_grp": "60–69",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kramat Sentiong",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Kramat Sentiong",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kramat Sentiong",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 41
+  },
+  {
+    "id": "Kramat Sentiong",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kramat Sentiong",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Kuningan Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Kuningan Barat",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kuningan Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kuningan Barat",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Kuningan Barat",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Kuningan Madya",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Kuningan Madya",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kuningan Madya",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Kuningan Madya",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Kuningan Madya",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kuningan Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Kuningan Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Kuningan Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Kwitang",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Kwitang",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Landmark Pluit Auto Plaza",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Landmark Pluit Auto Plaza",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Landmark Pluit Auto Plaza",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Landmark Pluit Auto Plaza",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Latuharhary",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Latumeten Stasiun Grogol Arah Selatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Latumeten Stasiun Grogol Arah Selatan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Layur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Layur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Layur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Layur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Layur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Layur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Layur",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Lebak Bulus",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Lebak Bulus",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 23
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "MH Thamrin",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Mampang Prapatan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Mampang Prapatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Mampang Prapatan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Mangga Besar Arah Selatan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Mangga Besar Arah Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Mangga Besar Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Mangga Besar Arah Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Mangga Besar Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Mangga Besar Arah Utara",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Mangga Dua",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Manggarai",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Masjid Agung",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Masjid Agung",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Masjid Agung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Masjid Agung",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Masjid Agung",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Masjid Al Huda Kemayoran",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Masjid Al Huda Kemayoran",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Masjid Al Huda Kemayoran",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Masjid Al Huda Kemayoran",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 27
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 46
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Matraman 1",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Matraman 2",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Matraman 2",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 41
+  },
+  {
+    "id": "Matraman 2",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 28
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 23
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Matraman Baru",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Mayestik",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Mayestik",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Mayestik",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 37
+  },
+  {
+    "id": "Mayestik",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Monas",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Monas",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Monas",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Monas",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Monas",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Monas",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Museum Fatahillah",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Museum Fatahillah",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Museum Fatahillah",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Museum Fatahillah",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Museum Fatahillah",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Olimo",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Olimo",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Olimo",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Olimo",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Olimo",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "PGC 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "PGC 1",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "PGC 1",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "PGC 2",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 3
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 15
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pademangan",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pakin",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pakin",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pakin",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pal Putih",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pancoran Barat Arah Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pancoran Barat Arah Timur",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Pancoran Barat Arah Timur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pancoran Tugu Arah Barat",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pancoran Tugu Arah Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pancoran Tugu Arah Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pancoran Tugu Arah Timur",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pangeran Jayakarta",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Pangeran Jayakarta",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pangeran Jayakarta",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Pangeran Jayakarta",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pangeran Jayakarta",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Baru",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Baru",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Baru Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Baru Timur",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 26
+  },
+  {
+    "id": "Pasar Baru Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Baru Timur",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Baru Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Cempaka Putih",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Cempaka Putih",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Cempaka Putih",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Cempaka Putih",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 23
+  },
+  {
+    "id": "Pasar Cempaka Putih",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Cempaka Putih",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Enjo",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Enjo",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Enjo",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Enjo",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Enjo",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Enjo",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Genjing",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Pasar Genjing",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Genjing",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Genjing",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Genjing",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Induk Kramat Jati",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Induk Kramat Jati",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Induk Kramat Jati",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Induk Kramat Jati",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 24
+  },
+  {
+    "id": "Pasar Induk Kramat Jati",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Induk Kramat Jati",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Jatinegara",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Jatinegara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Jatinegara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Kebayoran Lama",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Pasar Kebayoran Lama",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Kebayoran Lama",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Pasar Kramat Jati",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Pasar Pulo Gadung",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 27
+  },
+  {
+    "id": "Pasar Pulo Gadung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Pasar Pulo Gadung",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pasar Rumput",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 29
+  },
+  {
+    "id": "Pasar Rumput",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pasar Rumput",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Pasar Rumput",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Patra Kuningan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Patra Kuningan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Patra Kuningan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Pecenongan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pecenongan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Pecenongan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pecenongan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 27
+  },
+  {
+    "id": "Pecenongan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pecenongan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Pedati Prumpung",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pedati Prumpung",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pedati Prumpung",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pedongkelan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Pedongkelan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pedongkelan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pejaten",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pejaten",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pejaten",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Pejaten",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 13
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 38
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Pemuda Pramuka",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Pemuda Rawamangun",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Penas Kalimalang",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Penas Kalimalang",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Penas Kalimalang",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Penas Kalimalang",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Penas Kalimalang",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pengadilan Negeri Jakut",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Penggilingan",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Penjaringan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Penjaringan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Penjaringan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Penjaringan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Permai Koja Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Permai Koja Arah Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Permai Koja Arah Utara",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Permai Koja Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Permai Koja Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Permai Koja Arah Utara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Permai Koja Arah Utara",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Permata Hijau",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Permata Hijau RS Medika",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 39
+  },
+  {
+    "id": "Permata Hijau RS Medika",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Permata Hijau RS Medika",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Perumnas Klender",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Perumnas Klender",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Perumnas Klender",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Perumnas Klender",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Perumnas Klender",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Perumnas Klender",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pesakih",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pesakih",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pesakih",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Pesakih",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Petojo",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 3
+  },
+  {
+    "id": "Petojo",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 60
+  },
+  {
+    "id": "Petojo",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Petojo",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Petojo",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pinang Ranti",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "Pluit",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pluit",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Plumpang Pertamina Arah Selatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Plumpang Pertamina Arah Selatan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Plumpang Pertamina Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Plumpang Pertamina Arah Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Plumpang Pertamina Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Plumpang Pertamina Arah Utara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Plumpang Pertamina Arah Utara",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Plumpang Pertamina Arah Utara",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Polda Metro Jaya",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Polda Metro Jaya",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Polda Metro Jaya",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Polda Metro Jaya",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Polda Metro Jaya",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Polres Metro Jakpus",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Polres Metro Jakpus",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Polres Metro Jakpus",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Polres Metro Jakpus",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Polsek Kemayoran",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Polsek Kemayoran",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pondok Indah 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pondok Indah 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pondok Indah 2",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pondok Indah 2",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pondok Indah 2",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Pondok Indah 2",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pos Pengumben",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pos Pengumben",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 17
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 27
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pramuka BPKP",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 46
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pramuka LIA",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Gadung 1",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Pulo Gadung 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Gadung 1",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Gadung 2",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Gebang",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 39
+  },
+  {
+    "id": "Pulo Gebang",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Gebang",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Pulo Gebang",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Pulo Gebang",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Mas",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Pulo Mas",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Mas",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Pulo Mas",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Pulo Mas Bypass",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Mas Bypass",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Pulo Mas Bypass",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Puri Beta 1",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Puri Beta 1",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Puri Beta 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Puri Beta 1",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Puri Beta 2",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Puri Beta 2",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Puri Beta 2",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Puri Beta 2",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Puri Beta 2",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Puskesmas Sunter Agung I",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Puskesmas Sunter Agung I",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "RS Harapan Bunda",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "RS Harapan Bunda",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "RS Harapan Bunda",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Harapan Kita Arah Selatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Harapan Kita Arah Selatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "RS Harapan Kita Arah Selatan",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "RS Harapan Kita Arah Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Harapan Kita Arah Utara",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "RS Harapan Kita Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "RS Harapan Kita Arah Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "RS Harapan Kita Arah Utara",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Islam",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Sumber Waras",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "RS Sumber Waras",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Sumber Waras",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "RS Sumber Waras",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "RS Sumber Waras",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "RS Sumber Waras",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 14
+  },
+  {
+    "id": "RS Tarakan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "RS Tarakan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "RS Tarakan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "RS Tarakan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "RS Tarakan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "RSPAD 3",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "RSPAD 3",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "RSPAD 3",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "RSPAD 3",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "RSPAD 3",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Ragunan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Ragunan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Rawa Barat",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Rawa Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Rawa Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Barat",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Barat",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Buaya",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Buaya",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Buaya",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 18
+  },
+  {
+    "id": "Rawa Buaya",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Rawa Buaya",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Selatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Rawa Selatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Selatan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Rawa Selatan",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Rawa Selatan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "S Parman Podomoro City Arah Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "S Parman Podomoro City Arah Barat",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "S Parman Podomoro City Arah Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "S Parman Podomoro City Arah Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "S Parman Podomoro City Arah Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "S Parman Podomoro City Arah Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "SMK 57",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "SMK 57",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "SMK 57",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "SMK 57",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "SMP 140",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "SMP 140",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "SMP 140",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "SMP 140",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "SMPN 78",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "SMPN 78",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Salemba Carolus",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Salemba Carolus",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Salemba Carolus",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Salemba Carolus",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 42
+  },
+  {
+    "id": "Salemba Carolus",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Salemba Carolus",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Salemba UI",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Salemba UI",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 38
+  },
+  {
+    "id": "Salemba UI",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Salemba UI",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 3
+  },
+  {
+    "id": "Salemba UI",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Salemba UI",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Sawah Besar Arah Selatan",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Sawah Besar Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Sawah Besar Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Sawah Besar Arah Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Sbr. Jembatan Item",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Sbr. Jembatan Item",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Sbr. Jembatan Item",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Sbr. Jembatan Item",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sbr. Jembatan Sukamulya III",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Sbr. Jembatan Sukamulya III",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sbr. Jembatan Sukamulya III",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sbr. Sunter Icon",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sbr. Sunter Icon",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sbr. Sunter Icon",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 27
+  },
+  {
+    "id": "Sbr. Sunter Icon",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sekolah Penabur Gunung Sahari",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Sekolah Penabur Gunung Sahari",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Semanggi",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Semanggi",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Semanggi",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Semanggi",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Semanggi",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Senayan JCC Arah Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Senayan JCC Arah Timur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Senen",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Senen",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Senen Sentral",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Senen Sentral",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Senen Sentral",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 27
+  },
+  {
+    "id": "Senen Sentral",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Senen Sentral",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 22
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 41
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 59
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Seskoal",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Setiabudi Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Setiabudi Utara",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 6
+  },
+  {
+    "id": "Setiabudi Utara",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Simpang Danau Sunter Barat Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Simpang Danau Sunter Barat Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Simpang Danau Sunter Barat Utara",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Simpang Danau Sunter Utara Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Simpang Danau Sunter Utara Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Simpang Danau Sunter Utara Barat",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Simprug",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Simprug",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Simprug",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Simprug",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Simprug",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Simprug",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Slamet Riyadi",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Slamet Riyadi",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Slamet Riyadi",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Slamet Riyadi",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 3
+  },
+  {
+    "id": "Slamet Riyadi",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Slamet Riyadi",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Slipi Kemanggisan Arah Selatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Slipi Kemanggisan Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Slipi Kemanggisan Arah Selatan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Slipi Kemanggisan Arah Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Slipi Kemanggisan Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Slipi Kemanggisan Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Slipi Petamburan Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "St. Jatinegara 2",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "St. Jatinegara 2",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "St. Jatinegara 2",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "St. Jatinegara 2",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "St. Jatinegara 2",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "St. Jatinegara 2",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Selatan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Selatan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Utara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Utara",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Utara",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Stasiun Jatinegara Arah Utara",
+    "age_grp": "60–69",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 39
+  },
+  {
+    "id": "Stasiun Klender",
+    "age_grp": "60–69",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sumur Bor",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sumur Bor",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 3
+  },
+  {
+    "id": "Sumur Bor",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sumur Bor",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunan Giri",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunan Giri",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 28
+  },
+  {
+    "id": "Sunan Giri",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Sunan Giri",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Boulevard Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Boulevard Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Sunter Boulevard Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Boulevard Barat",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Sunter Icon",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Sunter Icon",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Icon",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Icon",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Karya",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Sunter Karya",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Karya",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Sunter Karya",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Karya",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Karya",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Selatan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 14
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Utara",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Utara",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Utara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Utara",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Kelapa Gading Arah Utara",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Sunter Muara 1",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Sunter Muara 1",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Sunter Muara 1",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 8
+  },
+  {
+    "id": "Sunter Muara 1",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Swadarma",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Swadarma",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 6
+  },
+  {
+    "id": "Swadarma",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 2
+  },
+  {
+    "id": "Swadarma",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Swadarma",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 29
+  },
+  {
+    "id": "TU Gas",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "TU Gas",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Taman Kota",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Taman Kota",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Taman Kota",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Taman Kota",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Tanah Kusir Kodim",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 38
+  },
+  {
+    "id": "Tanah Kusir Kodim",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Kusir Kodim",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Kusir Kodim",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Tanah Kusir Kodim",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Kusir Kodim",
+    "age_grp": "70–79",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Merdeka Arah Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Tanah Merdeka Arah Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Merdeka Arah Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Merdeka Arah Timur",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Merdeka Arah Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 38
+  },
+  {
+    "id": "Tanah Merdeka Arah Timur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tanah Merdeka Arah Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Tanjung Priok",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tanjung Priok",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tanjung Priok",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 58
+  },
+  {
+    "id": "Tebet Eco Park II Arah Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tebet Eco Park II Arah Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tebet Eco Park II Arah Timur",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Tegal Parang Arah Barat",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Tegal Parang Arah Barat",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tegal Parang Arah Barat",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Tegal Parang Arah Barat",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tegal Parang Arah Timur",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 24
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 43
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 40
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "50–59",
+    "sex": "F",
+    "pop": 40
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Tegalan",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tendean",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 38
+  },
+  {
+    "id": "Tendean",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tendean",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tendean",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Term. Senen",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Term. Senen",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Term. Senen",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Term. Senen",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 26
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 21
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 8
+  },
+  {
+    "id": "Tirtayasa",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Tomang Mandala",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tomang Mandala",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Tomang Mandala",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Tomang Mandala",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Tomang Mandala",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Tomang Mandala",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Tosari",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 22
+  },
+  {
+    "id": "Tosari",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Tosari",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "UNJ",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "UNJ",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "UNJ",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "UNJ",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "UNJ",
+    "age_grp": "70–79",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Utan Kayu",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 9
+  },
+  {
+    "id": "Utan Kayu",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 41
+  },
+  {
+    "id": "Utan Kayu",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 26
+  },
+  {
+    "id": "Utan Kayu Rawamangun",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Utan Kayu Rawamangun",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Utan Kayu Rawamangun",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Utan Kayu Rawamangun",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Utan Panjang",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Utan Panjang",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 7
+  },
+  {
+    "id": "Utan Panjang",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Utan Panjang",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 32
+  },
+  {
+    "id": "Utan Panjang",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 21
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 27
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Velbak",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Velodrome",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Velodrome",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 7
+  },
+  {
+    "id": "Velodrome",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Velodrome",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Walikota Jakarta Timur",
+    "age_grp": "10–19",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Walikota Jakarta Timur",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 19
+  },
+  {
+    "id": "Walikota Jakarta Timur",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Walikota Jakarta Timur",
+    "age_grp": "40–49",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Walikota Jakarta Timur",
+    "age_grp": "50–59",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Selatan",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Selatan",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Selatan",
+    "age_grp": "60–69",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Utara",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Utara",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Walikota Jakarta Utara Arah Utara",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 19
+  },
+  {
+    "id": "Warung Jati",
+    "age_grp": "10–19",
+    "sex": "M",
+    "pop": 1
+  },
+  {
+    "id": "Warung Jati",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 20
+  },
+  {
+    "id": "Warung Jati",
+    "age_grp": "30–39",
+    "sex": "M",
+    "pop": 18
+  },
+  {
+    "id": "Yos Sudarso Kodamar",
+    "age_grp": "20–29",
+    "sex": "F",
+    "pop": 1
+  },
+  {
+    "id": "Yos Sudarso Kodamar",
+    "age_grp": "20–29",
+    "sex": "M",
+    "pop": 20
+  },
+  {
+    "id": "Yos Sudarso Kodamar",
+    "age_grp": "30–39",
+    "sex": "F",
+    "pop": 2
+  },
+  {
+    "id": "Yos Sudarso Kodamar",
+    "age_grp": "40–49",
+    "sex": "M",
+    "pop": 27
+  }
+]
